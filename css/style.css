@@ -1,0 +1,135 @@
+body {
+    background:white;
+}
+img {
+     max-width:100%
+}
+a{
+  text-decoration: none;
+}
+
+#header {
+    color: white;
+    text-align: center;
+    background: rgba(34,34,34,.8);
+    padding: 3%;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+#main {
+
+} 
+
+#intro {
+    text-align: justify;
+}
+
+h5 {
+    margin-top: 2%;
+}
+
+#presentation {
+    margin-top: 3%;
+    text-align: justify;
+    font-size: 1.1em;
+}
+
+#presentation p {
+    margin-bottom: 1.5em;
+}
+#petition {
+  font-size: 1.5em;
+  text-align: center ;
+}
+
+#rsvp, #footer {
+    font-size: 1.3em;
+    color: white;
+    text-align: center;
+    background: rgba(34,34,34,.8);
+    padding: 20px 10px;
+    /*margin-top: 3%;*/
+}
+
+#license {
+  padding-top: 1em;
+}
+
+.contact {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+#footer {
+    font-size: .9em;
+    padding: 0 0 0 2%;
+}
+
+.fabricatorz {
+    padding-top: 2em;
+}
+
+.photo {
+    position: relative;
+    height: 200px;
+    width: 100%;
+    overflow : hidden;
+    top:0;
+    /*margin-bottom: 3%;*/
+}
+
+.photo img {
+    position:absolute;
+    top:-165%;
+    bottom:0;
+}
+
+.photo .caption {
+    text-align: center;
+    background: rgba(0,0,0,.6);
+    color: white;
+    position:absolute;
+    top:80%;
+    padding: 5px 10px;
+    width: 100%;
+    margin:auto;
+    opacity:0;
+}
+
+.photo:hover .caption{
+   transition: opacity .5s;
+   opacity: 1;
+}
+
+/*diaporama*/
+/*
+.photo:nth-child(1) {
+   animation: xfade 10s 5s infinite;
+}
+
+.photo:nth-child(2) {
+   animation: xfade 10s 0s  infinite;
+}
+
+@keyframes xfade{
+  0%{
+    opacity: 1;
+  }
+  40%{
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  90%{
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+*/
