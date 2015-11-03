@@ -1,0 +1,35 @@
+Free Culture in an Expensive World (DRAFT)
+
+by Shauna Gordon-McKeon
+
+“Free as in speech, not free as in beer.”
+
+How many times have you heard this explanation of free software?  It’s cute, catchy, simple - but unfortunately, nothing’s ever that simple.  Free software may have a precise definition, but its role in society is far harder to pin down.  All forms of free culture, from free software to music sharing, open science to fandom, have messy implications.
+
+Both ‘speech’ and ‘beer’ are metaphors here, but the choice of metaphors is telling.  By championing ‘free speech’ over ‘free beer’, we cast software as a natural right based on liberty, rather than a legal right based on property.  This sits well with the technolibertarian ethos often found in US-centric free software circles (of which I am a part and of which I am mostly speaking).  But focusing on liberty does not dispel the implications for property, only obscures them.
+
+While the first and second freedoms in the Free Software Definition are arguably matters of liberty, the third and fourth grant users the freedom to distribute copies of software, as well as the freedom to distribute modified copies. To use a Free Culture license, as defined by Creative Commons, users must similarly agree to allow adaptations of their work for commercial purposes. 
+
+This call echoes in the freedom to share experimental methods and results demanded by open scientists, and in the freedom to copy and remix exercised defiantly by music lovers and fanficcers.  “Intellectual property” is a over-general and problematic term, yet not irrelevant here.  Programmers, researchers, musicians and writers have created something of value.  What rights do they retain when they release it out into the world?
+
+A popular argument is that digital files may be trivially copied.  One can produce a thousand copies of EMacs, or of Harry Potter, in a literal second.  Without scarcity, the logic goes, there’s no need for property.  But scarcity is not a natural phenomenon, determined entirely by technological limits.  Like so many things, it is socially constructed.  Humanity produces enough food to feed the world, enough vaccine to wipe out a dozen diseases, and, in the United States at least, enough houses to shelter our six hundred thousand homeless brothers and sisters.
+
+Free software contributors, scientists and artists all live within a society where artificial scarcity keeps people starving, sick and on the streets.  Why, then, should we be surprised that so many of us want to enforce an artificial scarcity on the products of our labor?  
+
+The decision to fight that artifice, which so many of my free software colleagues have made, is no less problematic.  As a child of an upper middle class family, a white, cis graduate of a liberal arts college, I have no fear that I will ever be hungry, homeless, or without healthcare.  This privilege grants me a greater opportunity to write free software, yes, but it also takes away an opportunity: the opportunity for someone else to support themselves by selling non-free versions of that software.  
+
+This is one instantiation of the broader problem of volunteerism.  It is not inherently wrong for you to give your time to a humanitarian cause or a political campaign, but this ‘selfless’ action gives you opportunity and sociocultural power over someone who cannot afford to donate their labor.  Giving away your writing ‘for the exposure’ is like receiving a loan that a poorer person cannot qualify for - a loan that, by virtue of qualifying for it, you likely need less.
+
+One can argue that by giving away free software and other free culture products, we increase the access of those less privileged.  But it’s impossible to know whether this truly compensates for lost opportunities, and besides, it is seldom a priority.  Free software is often made for other free software developers, and we celebrate “scratching your own itch”.  Not that communities which focus on creating for those less privileged are necessarily better - in fact, they can be deeply condescending and unhelpful.
+
+This is a thorny problem to resolve, made all the more difficult by our reluctance to address the flaw inherent in our claim: “free as in speech, not as in beer”.  
+
+Is it even possible for something to be “free as in speech” but not “free as in beer”?  Can we make a claim about liberty rights without making a claim about property rights, in the context of labor and the products of our labor?  Americans in particular find it far easier to argue for individual liberty than against individual property.  We have a tendency to deny when these two values come into conflict, to our great collective disgrace.
+
+What happens if we accept that free speech implies free beer, when we reframe the argument for free culture as a matter not of liberty but of property?  The case for open science becomes the case for public knowledge.  The case for free distribution of art and literature becomes the case for a shared yet diversifying culture.  And the case for free software becomes the case for collectively built, collectively understood technology.
+
+Free culture, then, is an argument for universal access to a common good.  Is there a morally and intellectually consistent approach that advocates for free culture but against public education, universal health care, guaranteed housing, basic income or their equivalents?  If so, I am not aware of it.
+
+This is not just a moral matter, but a practical one.  As I mentioned above, it is difficult to convince people to give away their labor and trust it will work out fine when their community provides no safety net.  More alarmingly, our culture of scarcity makes it difficult to find the time and energy to live out our free culture principles, however much we’d like to.  Free culture advocates choose Apple over GNU/Linux, finding it easier to use and more reliable, even though they dislike proprietary software in principle.  As a free software activist and developer, I find myself choosing Ubuntu over alternative distributions for those same reasons, even though it includes non-free software and spies on my desktop searches by default.
+
+We live in alarming times.  The computers with which we create these digital gifts are too often made by people whose basic human rights we abuse, using processes which blight our fundamental common good: our global environment.   We cannot abstract away these facts; we cannot advocate for free culture as though in a vacuum.  We must advocate for the common good in all of its forms - digital, social, economic, environmental - before the cost of freedom becomes too high to bear.
