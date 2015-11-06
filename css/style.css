@@ -8,6 +8,9 @@ a{
   text-decoration: none;
 }
 
+.center {
+  text-align: center;
+}
 #header {
     color: white;
     text-align: center;
@@ -41,6 +44,7 @@ h5 {
     margin-bottom: 1.5em;
 }
 #petition {
+  margin-top: 1em;
   font-size: 1.5em;
   text-align: center ;
 }
@@ -103,33 +107,9 @@ h5 {
    transition: opacity .5s;
    opacity: 1;
 }
-
-/*diaporama*/
-/*
-.photo:nth-child(1) {
-   animation: xfade 10s 5s infinite;
+.cover {
+  max-height: 80vh;
 }
-
-.photo:nth-child(2) {
-   animation: xfade 10s 0s  infinite;
+#download {
+  font-size: 1.3em;
 }
-
-@keyframes xfade{
-  0%{
-    opacity: 1;
-  }
-  40%{
-    opacity: 1;
-  }
-  50% {
-    opacity: 0;
-  }
-  90%{
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-
-*/
