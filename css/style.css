@@ -5,7 +5,7 @@ img {
      max-width:100%
 }
 a{
-  text-decoration: none;
+    text-decoration: none;
 }
 
 #header {
@@ -21,7 +21,7 @@ h1 {
 
 #main {
 
-} 
+}
 
 #intro {
     text-align: justify;
@@ -133,3 +133,49 @@ h5 {
 }
 
 */
+
+/**
+ * Navigation
+ */
+
+nav.hz ul { list-type: none; margin:0; padding:0; display: table-row; }
+nav.hz ul li { display: table-cell; }
+ul.alpha li { width: 1em; }
+
+/**
+ * Links page
+ */
+
+body.links {
+    height: 100%;
+    overflow: auto;
+}
+
+body.links #header {
+    position: fixed;
+    width: 100%;
+    padding: 0;
+    z-index: 90;
+    height: 13em;
+    height: 10m;
+    background-color: rgba(0,0,13,0.95);
+}
+body.links #header h1 {
+    font-size: 2em;
+    text-align: right;
+    padding-top:0.5em;
+    padding-left: 1em;
+}
+
+body.links #main {
+    top: 1em;
+}
+
+body.links h2,
+body.links h3 {
+    padding-top: 5em;
+}
+
+body.links #intro div h4 {
+    line-height: 0.8;
+}
