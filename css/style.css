@@ -204,3 +204,8 @@ body.book #toc dd ul li {
     line-height: 1em;
     padding: 0;
 }
+
+.subtitled {
+    margin-bottom: 0;
+    line-height: .4em;
+}
