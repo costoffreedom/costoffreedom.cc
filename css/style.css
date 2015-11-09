@@ -86,9 +86,9 @@ h5 {
 }
 
 .photo img {
-    position:absolute;
-    top:-165%;
-    bottom:0;
+    /*position:absolute;*/
+    /*top:-165%;*/
+    /*bottom:0;*/
 }
 
 .photo .caption {
