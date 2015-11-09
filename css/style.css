@@ -179,3 +179,43 @@ body.links h3 {
 body.links #intro div h4 {
     line-height: 0.8;
 }
+
+body.links #tweets {
+    position: absolute;
+    bottom: 10em;
+    right: 0;
+}
+                
+
+/**
+ * Book
+ */
+
+body.book #cover figure {
+    margin: 0;
+    padding: 0;
+}
+body.book #cover img {
+    background-color: #ccc;
+    display: block;
+}
+body.book #cover figcaption {
+    font-size: x-small;
+}
+
+body.book #toc dl {
+    margin: 0;
+    padding: 0;
+}
+body.book #toc dt {}
+body.book #toc dd {}
+body.book #toc dd ul {
+    line-height: 1em;
+    margin: 0;
+    padding: 0;
+    display: none;
+}
+body.book #toc dd ul li {
+    line-height: 1em;
+    padding: 0;
+}
