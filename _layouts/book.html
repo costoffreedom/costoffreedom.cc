@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title> Cost of Freedom | {{ page.section }} | {{ page.title }} </title>
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/skeleton.css">
+    <link rel="stylesheet" href="/css/book.css">
+    <meta name="description" content="{{ page.description }}">
+    <meta name="author" content="{{ page.author }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="/images/favicon.png">
+    <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+  </head>
+  <body class="book">
+    <header>
+      <nav>
+        <ul>
+          <li><a href="/book">Cost of Freedom</a></li>
+          <li><a href="/book/{{ page.section | slugify 'pretty' }}">{{ page.section }}</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main class="container">
+      <article class="twelve columns">
+        {{ content }}
+      </article>
+    </main>
+    <footer>
+      <nav>
+        <ul>
+          <li>{{ page.previous }}</li>
+          <li>{{ page.up }} </li>
+          <li>{{ page.next }}</li>
+        </ul>
+      </nav>
+    </footer>
+  </body>
+</html>
