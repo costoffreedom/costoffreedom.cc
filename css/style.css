@@ -117,6 +117,11 @@ h5 {
   padding-bottom: 1em;
 }
 
+.subtitled {
+    margin-bottom: 0;
+    line-height: .4em;
+}
+
 
 /**
  * Navigation
@@ -205,7 +210,11 @@ body.book #toc dd ul li {
     padding: 0;
 }
 
-.subtitled {
-    margin-bottom: 0;
-    line-height: .4em;
+/**
+ * Tweets
+ */
+
+.tweet .translation {
+    font-size: smaller;
+    font-style: italic;
 }
