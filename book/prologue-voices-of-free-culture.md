@@ -1,11 +1,14 @@
 ---
 title: Voices of Free Culture
 author: Clément Renaud
+section: Prologue
+description: How did this book sprint happen?
+layout: book
 ---
 
-*Prologue*
+__{{ page.section }}__
 
-= Voices of Free Culture =
+# {{ page.title }}
 
 _This book was written in Pourrières, France, in five days, from 2nd to 6th November 2015._
 
@@ -23,4 +26,4 @@ This book is not a statement about freedom and culture; it is a primal scream, t
 
 This book is dedicated to Bassel Khartabil Sadafi and to all those that will recognize themselves in the stories told in these pages.
 
-<span style="author bio">Clément Renaud is 32 years old. He is a researcher, developer, creative coder, and journalist, based in Lyon.</span>
+<span style="author bio">{{ page.author }} is 32 years old. He is a researcher, developer, creative coder, and journalist, based in Lyon.</span>
