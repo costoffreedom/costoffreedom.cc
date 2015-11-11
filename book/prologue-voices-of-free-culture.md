@@ -9,7 +9,7 @@ up: <a href="/book">Cost of Freedom</a>
 next: <a href="/book/prologue-introduction">Introduction</a>
 ---
 
-__{{ page.section }}__
+[CoF](/book "Cost of Freedom") > __{{ page.section }}__
 
 # {{ page.title }}
 
