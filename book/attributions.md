@@ -29,13 +29,13 @@ __Book Sprint Facilitation__: Barbara Rühling
   <div class="four columns">
   <ul>
     <li><a href="../authors/adam-hyde">Adam Hyde</a></li>
-    <li><a href="../authors/anasuya-sengupta">Anasuya Sengupta</a></li>
-    <li><a href="../authors/barry-threw">Barry Threw</a></li>
-    <li><a href="../authors/ben-dablo">Ben Dablo</a></li>
-    <li><a href="../authors/christian-grothoff">Christian Grothoff</a></li>
-    <li><a href="../authors/christopher-adams">Christopher Adams</a></li>
-    <li><a href="../clemence-de-montgolfier">Clémence de Montgolfier</a></li>
-    <li><a href="../clement-renaud">Clément Renaud</a></li>
+    <li>Anasuya Sengupta</a></li>
+    <li>Barry Threw</li>
+    <li>Ben Dablo</li>
+    <li>Christian Grothoff</li>
+    <li>Christopher Adams</li>
+    <li>Clémence de Montgolfier</a></li>
+    <li><a href="../authors/clement-renaud">Clément Renaud</a></li>
     <li>Donatella Della Ratta</li>
     <li>Ethan Zuckerman</li>
     <li>Faraj Rifait</li>
