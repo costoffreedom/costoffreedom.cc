@@ -205,8 +205,8 @@ our alternatives are good, if our models take sense into the society,
 they will naturally replace the old system, without war, without
 revolutions.
 
-__Let's do it. DIY, DIT, DIWO, DIN__*
-
-* Do-It-Yourself, Do-It-Together, Do-It-With-Others, Do-It-Now
+__Let's do it. DIY, DIT, DIWO, DIN__[^1]
 
 <p class="author bio"><a href="../authors/jean-noel-montagne">Jean Noël Montagné</a>, founder of a hackerspace in Nice, France, called Nicelab, "Open Laboratory of Nice".</p>
+
+[^1]: Do-It-Yourself, Do-It-Together, Do-It-With-Others, Do-It-Now
