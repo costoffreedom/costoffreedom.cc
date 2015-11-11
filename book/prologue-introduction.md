@@ -84,7 +84,7 @@ offer a unique snapshot of its dreads and interrogations, and a
 tentative program for the reader to reflect on the future of freedom
 in our times.
 
-[0]: collective-memory/
-[1]: opening:freedom/
-[2]: architectonics-of-power/
-[3]: affordances/
+[0]: ./collective-memory/
+[1]: ./opening:freedom/
+[2]: ./architectonics-of-power/
+[3]: ./affordances/
