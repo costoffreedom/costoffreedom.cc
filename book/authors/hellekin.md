@@ -18,15 +18,15 @@ Foundation, and [GNU consensus](https://gnu.org/consensus) maintainer.
 
 ## Author
 
-- [Free as in Commons](/book/opening:freedom/free-as-in-commons)
-- [Free Software Economics](/book/architectonics-of-power/free-software-economics)
-- [Beyond Capitalism](/book/architectonics-of-power/beyond-capitalism)
-- [Reconciliation](/book/affordances/reconciliation)
-- [Internal Freedom](/book/epilogue/internal-freedom)
-- [The Cost of Future Tense](/book/epilogue/the-cost-of-future-tense)
-- [Online Resources](/book/appendices/online-resources)
+- [Free as in Commons](../opening:freedom/free-as-in-commons)
+- [Free Software Economics](../architectonics-of-power/free-software-economics)
+- [Beyond Capitalism](../architectonics-of-power/beyond-capitalism)
+- [Reconciliation](../affordances/reconciliation)
+- [Internal Freedom](../epilogue/internal-freedom)
+- [The Cost of Future Tense](../epilogue/the-cost-of-future-tense)
+- [Online Resources](../appendix/#online-resources)
 
 ## Editor
 
-- [Introduction](/book/prologue-introduction)
-- [Why I Refused My Proprietary Self](/book/architectonics-of-power/why-i-refused-my-proprietary-self)
+- [Introduction](../prologue-introduction)
+- [Why I Refused My Proprietary Self](../architectonics-of-power/why-i-refused-my-proprietary-self)

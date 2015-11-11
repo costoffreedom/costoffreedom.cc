@@ -28,14 +28,14 @@ __Book Sprint Facilitation__: Barbara Rühling
 <div class="row">
   <div class="four columns">
   <ul>
-    <li><a href="../authors/adam-hyde">Adam Hyde</a></li>
+    <li><a href="./authors/adam-hyde">Adam Hyde</a></li>
     <li>Anasuya Sengupta</a></li>
     <li>Barry Threw</li>
     <li>Ben Dablo</li>
     <li>Christian Grothoff</li>
     <li>Christopher Adams</li>
     <li>Clémence de Montgolfier</a></li>
-    <li><a href="../authors/clement-renaud">Clément Renaud</a></li>
+    <li><a href="./authors/clement-renaud">Clément Renaud</a></li>
     <li>Donatella Della Ratta</li>
     <li>Ethan Zuckerman</li>
     <li>Faraj Rifait</li>
@@ -47,7 +47,7 @@ __Book Sprint Facilitation__: Barbara Rühling
 </div>
 <div class="four columns">
   <ul>
-    <li><a href="../authors/hellekin">hellekin</a></li>
+    <li><a href="./authors/hellekin">hellekin</a></li>
     <li>jaromil</li>
     <li>Jon Phillips</li>
     <li>John Wilbanks</li>
