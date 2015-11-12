@@ -24,7 +24,7 @@ Foundation, and [GNU consensus](https://gnu.org/consensus) maintainer.
 - [Reconciliation](../affordances/reconciliation)
 - [Internal Freedom](../epilogue/internal-freedom)
 - [The Cost of Future Tense](../epilogue/the-cost-of-future-tense)
-- [Online Resources](../appendix/#online-resources)
+- [Online Resources](../appendix#online-resources)
 
 ## Editor
 
