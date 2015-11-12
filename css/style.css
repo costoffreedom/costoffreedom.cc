@@ -18,6 +18,10 @@ a{
     padding: 3%;
 }
 
+#header .container h5 {
+    text-align: justify;
+}
+
 h1 {
     font-weight: bolder;
 }
