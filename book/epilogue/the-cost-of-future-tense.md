@@ -8,17 +8,6 @@ up: <a href="./">Epilogue</a>
 next: <a href="andromeda-report-gliese-832-c-expedition">Andromeda Report</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | __[Epilogue][c5]__
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 The freest person I've met perceived hosts on foreign networks in
 cryptic idioms like the forest of his childhood: each stone, each
 bird, each shadow had no secret for her.

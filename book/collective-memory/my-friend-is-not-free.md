@@ -8,17 +8,6 @@ up: <a href="./">Collective Memory</a>
 next: <a href="liberte">Liberté</a>
 ---
 
-[CoF][c0] | __[Collective Memory][c1]__ | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 Most of the time it came down to emotion. It was anger, frustration,
 exhaustion, feeling alone, confusion, and wanting to escape it
 all. You wished there would be hope. But it was hopeless. It was

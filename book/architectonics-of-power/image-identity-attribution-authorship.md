@@ -8,16 +8,6 @@ up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="the-burden-of-journalism">The Burden of Journalism</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2]| __[ARCHITECTONICS OF POWER][c3]__ | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
 
 We can say that a photographer owns her images, in the same way that
 an author owns her words. (The shorthand for this ownership is

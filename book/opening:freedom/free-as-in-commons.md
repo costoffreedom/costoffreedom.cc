@@ -8,17 +8,6 @@ up: '<a href="./">OPENING: FREEDOM</a>'
 next: <a href="../architectonics-of-power">ARCHITECTONICS OF POWER</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | __[OPENING: FREEDOM][c2]__ | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 The Free Software Movement is 32 years old. In 1983, Dr. Richard
 Matthew Stallman, also known as rms, his computer user name, invited
 the world to write a sufficient body of free software to restore

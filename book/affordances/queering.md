@@ -8,17 +8,6 @@ up: <a href="/book">Cost of Freedom</a>
 next: <a href="nomadic-family">Nomadic Family</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | __[AFFORDANCES][c4]__ | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# Queering
-
 From 23 to 24 May, [femhack][0] organized an international hackathon
 in the loving memory of Sabeen Mahmud, getting together amongst a
 large number of feminist hackerspaces locally and around the world.

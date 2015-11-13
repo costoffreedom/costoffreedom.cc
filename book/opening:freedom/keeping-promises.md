@@ -8,17 +8,6 @@ up: '<a href="./">OPENING: FREEDOM</a>'
 next: <a href="the-shit-of-freedom">The Shit of Freedom</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | __[OPENING: FREEDOM][c2]__ | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 _Presentation by Lawrence Lessig, CC Global Summit 2015, 15 Oct 2015,
 Seoul, Korea_ <br> _Edited by Christopher Adams, 3 Nov 2015, Pourrières, France._
 

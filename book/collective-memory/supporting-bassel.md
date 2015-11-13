@@ -8,17 +8,6 @@ up: <a href="./">Collective Memory</a>
 next: <a href="what-does-freedom-mean-to-you-mr-government">What Does Freedom Mean to You, Mr. Government?</a>
 ---
 
-[CoF][c0] | __[Collective Memory][c1]__ | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 Bassel Khartabil has been imprisoned in Syria since 2012 for the vague
 "crime" of "harming state security". Near as anyone can tell, his
 crime was in being an advocate for the use of the Internet as a

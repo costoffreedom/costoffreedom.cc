@@ -5,7 +5,7 @@
     <title> Cost of Freedom | {{ page.section }} | {{ page.title }} </title>
     <link rel="stylesheet" href="/css/normalize.css">
     <link rel="stylesheet" href="/css/skeleton.css">
-    <link rel="stylesheet" href="/css/book.css">
+    <link rel="stylesheet" href="/css/style.css">
     <meta name="description" content="{{ page.description }}">
     <meta name="author" content="{{ page.author }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,19 +13,23 @@
     <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
   </head>
   <body class="book">
+    {% include header.html %}
+    {% include menu.html %}
     <main class="container">
       <article class="twelve columns">
+        <h2 class="center">{{ page.title }}</h2>
         {{ content }}
       </article>
     </main>
-    <footer>
-      <nav>
-        <ul>
-          <li>{{ page.previous }}</li>
+    <footer class="container">
+      <nav class="row next-prev">
+        <ul class="twelve columns">
+          <li class='prev'>{{ page.previous }}</li>
           <li>{{ page.up }} </li>
-          <li>{{ page.next }}</li>
+          <li class="next">{{ page.next }}</li>
         </ul>
       </nav>
     </footer>
+    {% include footer.html %}
   </body>
 </html>

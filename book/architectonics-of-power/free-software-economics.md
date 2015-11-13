@@ -8,17 +8,6 @@ up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="beyond-capitalism">Beyond Capitalism</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2]| __[ARCHITECTONICS OF POWER][c3]__ | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 Fifteen years ago, in his seminal article [Code Is Law][0], Lawrence
 Lessig identified a problematic: _"The most important contexts of
 regulation in the future will affect Internet commerce: where the

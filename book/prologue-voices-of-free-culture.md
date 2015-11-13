@@ -9,19 +9,6 @@ up: <a href="/book">Cost of Freedom</a>
 next: <a href="/book/prologue-introduction">Introduction</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-**Prologue**
-
-# {{ page.title }}
-
 _This book was written in Pourrières, France, in five days, from 2nd
 to 6th November 2015._
 

@@ -8,17 +8,6 @@ up: <a href="./">Collective Memory</a>
 next: <a href="newpalmyra-and-the-free-bassel-campaign">#NEWPALMYRA and the Free Bassel Campaign</a>
 ---
 
-[CoF][c0] | __[Collective Memory][c1]__ | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 Bassel Khartabil (Arabic: باسل خرطبيل‎) also known as Bassel Safadi
 (Arabic: باسل صفدي‎) is a software developer and community builder, an
 advocate for internet freedom, and most recently, and perhaps most

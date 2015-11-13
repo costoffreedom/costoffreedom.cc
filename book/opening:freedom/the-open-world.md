@@ -8,17 +8,6 @@ up: '<a href="./">OPENING: FREEDOM</a>'
 next: <a href="costs-of-openness">Costs of Openness</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | __[OPENING: FREEDOM][c2]__ | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 In *Open is not a License*[^1] Adam Hyde has described openness as ‘a set of
 values by which you live…a way of life, or perhaps a way of growing, an often
 painful path where we challenge our own value system against itself.’

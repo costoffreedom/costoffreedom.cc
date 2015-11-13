@@ -8,16 +8,6 @@ up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="why-i-choose-privacy">Why I choose Privacy</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2]| __[ARCHITECTONICS OF POWER][c3]__ | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
 
 _Dedicated to Bassel Khartabil, written for the Cost of Freedom Book Sprint._
 

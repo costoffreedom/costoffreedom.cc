@@ -8,17 +8,6 @@ up: <a href="./">Collective Memory</a>
 next: <a href="free-bassel">Free Bassel</a>
 ---
 
-[CoF][c0] | __[Collective Memory][c1]__ | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 Sur mes cahiers d’écolier
 <br>Sur mon pupitre et les arbres
 <br>Sur le sable sur la neige

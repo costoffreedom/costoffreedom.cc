@@ -8,17 +8,6 @@ up: '<a href="./">OPENING: FREEDOM</a>'
 next: <a href="free-culture-in-an-expensive-world">Free Culture in an Expensive World</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | __[OPENING: FREEDOM][c2]__ | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 Unlike Bassel Khartabil, the cost to me, personally, of my
 free-knowledge work has been cheap. I have not paid with my
 freedom. In fact, I have been incredibly privileged to have conducted

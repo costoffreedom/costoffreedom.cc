@@ -8,17 +8,6 @@ up: <a href="./">AFFORDANCES</a>
 next: <a href="self-sufficiency">Self-Sufficiency</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | __[AFFORDANCES][c4]__ | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 > The problem of the costs within the schizoid logic of our times concerns mostly _potestas_, the quantitative, not _potentia_, or incorporeal intensities." 
     --Rosi Braidotti, Nomadic Theory
 

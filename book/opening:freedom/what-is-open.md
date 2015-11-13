@@ -8,17 +8,6 @@ up: '<a href="./">OPENING: FREEDOM</a>'
 next: <a href="the-open-world">The Open World</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | __[OPENING: FREEDOM][c2]__ | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 > After looking at "Open is not a License", I decided to take a look
   at some of the definitions of the noun "open" in the dictionary, and
   was inspired to write a short poem around what "open" might mean to

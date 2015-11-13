@@ -8,17 +8,6 @@ up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="why-i-refused-my-proprietary-self">Why I Refused My Proprietary Self</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2]| __[ARCHITECTONICS OF POWER][c3]__ | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 I used to have a peculiar habit: I went to great lengths to not
 infringe copyright. This was often misunderstood to be a statement in
 support of stronger copyright, taking Metallica's side against

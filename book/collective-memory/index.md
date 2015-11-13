@@ -8,17 +8,6 @@ up: <a href="../">Cost of Freedom</a>
 next: <a href="the-uncommon-creativity-of-bassel-khartabil">The Uncommon Creativity of Bassel Khartabil</a>
 ---
 
-[CoF][c0] | __{{ page.section }}__ | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# Collective Memory
-
 __Bassel should be free. *We will not stop campaigning for him until we see him as a free global citizen once again.*__
 
 - [The Uncommon Creativity of Bassel Khartabil][0], by [Barry Threw][1]

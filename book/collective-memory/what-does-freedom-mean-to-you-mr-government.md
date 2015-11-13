@@ -8,17 +8,6 @@ up: <a href="./">Collective Memory</a>
 next: <a href="bassel-k">"Bassel K"</a>
 ---
 
-[CoF][c0] | __[Collective Memory][c1]__ | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 Bassel Safadi, Tural Abbasli, Fariba Pajouh.<br>
 Teesta Setalvad, Eskinder Nega, Raif Badawi.<br>
 Anna Politkovskaya, Irom Sharmila, Aaron Swartz.<br>

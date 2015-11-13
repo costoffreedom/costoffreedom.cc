@@ -8,17 +8,6 @@ up: <a href="/book">Cost of Freedom</a>
 next: <a href="keeping-promises">Keeping Promises</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | __{{ page.section }}__ | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# OPENING: FREEDOM
-
 __Personal, sometimes contradictory reflections and views about the experience of working within free culture__
 
 - [Keeping Promises][0], by [Lawrence Lessig][1]

@@ -8,19 +8,6 @@ up: <a href="./">Epilogue</a>
 next: <a href="../appendix">Appendix</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | __[Epilogue][c5]__
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# Andromeda Report
-
-## Gliese 832 C Expedition
-
 ### 1. The return of the Convoy and the forgotten core
 
 Dear Sir and Madam,

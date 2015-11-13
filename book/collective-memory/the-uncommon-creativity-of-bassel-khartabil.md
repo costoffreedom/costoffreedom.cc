@@ -8,21 +8,9 @@ up: <a href="./">Collective Memory</a>
 next: <a href="bassel-and-my-freedom">Bassel, and My Freedom</a>
 ---
 
-[CoF][c0] | __[Collective Memory][c1]__ | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
-> The people who are in real danger never leave their countries. They
-  are in danger for a reason and for that they don't leave #Syria”
-  -- [@basselsafadi][0] on Twitter, 1/31/2012 14:34:46, one month
-  before detention.
+> The people who are in real danger never leave their countries. They are in danger for a reason and for that they don't leave #Syria”
+>
+> [@basselsafadi][0] on Twitter, 1/31/2012 14:34:46, one month before detention.
 
 In October 2010, I sat at a checkpoint on the Lebanon-Syria border,
 waiting for Bassel. It was late, and I'd been sitting in a nearby

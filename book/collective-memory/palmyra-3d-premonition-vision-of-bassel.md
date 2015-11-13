@@ -8,17 +8,6 @@ up: <a href="./">Collective Memory</a>
 next: <a href="rebuild-asad-al-lat">Rebuild Asad Al Lat</a>
 ---
 
-[CoF][c0] | __[Collective Memory][c1]__ | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 Born from a Palestinian father, writer, and Syrian mother, Professor
 of Piano, Bassel lived in an environment open to the world and remote
 from any conservatism. From his early childhood, reading was a refuge

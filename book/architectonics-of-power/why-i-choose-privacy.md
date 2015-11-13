@@ -8,17 +8,6 @@ up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="why-i-choose-copyright">Why I choose Copyright</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2]| __[ARCHITECTONICS OF POWER][c3]__ | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 _This essay is adapted from one originally published on my personal
 website, [missbananabiker.com][missbananabiker.com]._
 

@@ -8,17 +8,6 @@ up: <a href="./">AFFORDANCES</a>
 next: <a href="resilient-networks">Resilient Networks</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | __[AFFORDANCES][c4]__ | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 I fell under the spell of sharism in 2003 when I started the Creative
 Commons France chapter with the full support of my then Ph.D. advisor
 and the director of our research center. Since then, my participation

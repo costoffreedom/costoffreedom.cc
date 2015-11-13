@@ -8,17 +8,6 @@ up: <a href="./">AFFORDANCES</a>
 next: <a href="../epilogue/">Epilogue</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | __[AFFORDANCES][c4]__ | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 Like a teenager discovering the shortcomings of the father, 21st
 Century humans want to break free from a paternalist system that
 cannot address complexity. They start looking after each other and

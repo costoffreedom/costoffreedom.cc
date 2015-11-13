@@ -7,21 +7,8 @@ up:
 next: <a href="/book/prologue-voices-of-free-culture">Preface</a>
 ---
 
-# Attributions
-
 This book is dedicated to the public domain and licensed under the
 terms of the [CC0 license](/book/appendix/cc0-license)..
-
-__Cover Painting__: Omar Ibrahim, artist born in the south of Syria
-1978, living and working in Paris.
-
-__Book Production and Cover Design__: Julien Taquet
-
-__MISSINGBASSEL Illustration__: Neil Stuber
-
-__Text Clean-Up__: Raewyn Whyte
-
-__Book Sprint Facilitation__: Barbara Rühling
 
 ## Contributors
 
@@ -84,3 +71,14 @@ __Book Sprint Facilitation__: Barbara Rühling
   </ul>
 </div>
 </div>
+
+__Cover Painting__: Omar Ibrahim, artist born in the south of Syria
+1978, living and working in Paris.
+
+__Book Production and Cover Design__: Julien Taquet
+
+__MISSINGBASSEL Illustration__: Neil Stuber
+
+__Text Clean-Up__: Raewyn Whyte
+
+__Book Sprint Facilitation__: Barbara Rühling

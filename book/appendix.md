@@ -8,17 +8,6 @@ up: <a href="./">Cost of Freedom</a>
 next: <a href="http://freebassel.org/">#FREEBASSEL</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# Appendix
-
 ## Call For Participation
 
 ### Call for mini-essays on “the cost of freedom” in free knowledge

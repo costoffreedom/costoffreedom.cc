@@ -8,17 +8,6 @@ up: <a href="./">Epilogue</a>
 next: <a href="the-cost-of-future-tense">The Cost of Future Tense</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | __[Epilogue][c5]__
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 <div class="offset-by-one columns"><p>“In hypernational ecstasy-”</p></div>
 
 “What about starting with where it’s come from, something like that? -”

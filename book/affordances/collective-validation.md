@@ -8,17 +8,6 @@ up: <a href="./">AFFORDANCES</a>
 next: <a href="transdisciplinarity">Transdisciplinarity</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | __[AFFORDANCES][c4]__ | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 A friend of mine—a multimedia artist and a community organizer—once
 referred to taking a job at a commercial software company as “becoming
 a civilian,” as something that might be a little more relaxing, a

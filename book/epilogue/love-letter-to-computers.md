@@ -8,17 +8,6 @@ up: <a href="./">Epilogue</a>
 next: <a href="arabfuturisms-conversation-a">Arabfuturism(s) (Conversation A)</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | __[Epilogue][c5]__
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 An old WordPress installation turns into a zombie spam machine.
 
 Interesting energy growing a beast of some sort.

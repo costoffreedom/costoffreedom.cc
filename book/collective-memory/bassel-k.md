@@ -8,17 +8,6 @@ up: <a href="./">Collective Memory</a>
 next: <a href="my-friend-is-not-free">My Friend is Not Free</a>
 ---
 
-[CoF][c0] | __[Collective Memory][c1]__ | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 I read _"The Trial"_ at too young an age. It instilled in me many
 things, some of them even positive, such as an affection for Franz
 Kafka, an aspiration to taut structure, and a desire to tell

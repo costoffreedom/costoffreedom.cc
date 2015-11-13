@@ -7,17 +7,6 @@ up: <a href="../">Cost of Freedom</a>
 next: <a href="internal-freedom">Internal Freedom</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | __{{page.section}}__
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 - [Internal Freedom][0], by [hellekin][1]
 - [Love Letter to Computers][2], by [Clément Renaud][3]
 - [Towards a possible manifesto; proposing Arabfuturism(s) (Conversation A)][4], by [Sulaiman Majali][5]

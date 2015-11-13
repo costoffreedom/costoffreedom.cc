@@ -8,17 +8,6 @@ up: <a href="./">Collective Memory</a>
 next: <a href="supporting-bassel">Supporting Bassel</a>
 ---
 
-[CoF][c0] | __[Collective Memory][c1]__ | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 Allat Lion, Palmyra, pitcure by Mappo
 ![Allat Lion, Palmyra, pitcure by Mappo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lion_in_the_garden_of_Palmyra_Archeological_Museum%2C_2010-04-21.jpg/800px-Lion_in_the_garden_of_Palmyra_Archeological_Museum%2C_2010-04-21.jpg)
 

@@ -8,17 +8,6 @@ up: <a href="./">Epilogue</a>
 next: <a href="love-letter-to-computers">Love Letter to Computers</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | __[Epilogue][c5]__
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 I am alive. I am grateful to be alive. I smile. I want to share this
 happiness. With anyone. I may lean on the left side of politics, and
 you may lean on the right side. It doesn't show on your face when I

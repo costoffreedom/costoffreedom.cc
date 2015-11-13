@@ -8,17 +8,6 @@ up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="image-identity-attribution-authorship">Image, Identity, Attribution, Authorship</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2]| __[ARCHITECTONICS OF POWER][c3]__ | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-# {{ page.title }}
-
 _Edited by hellekin, 3 Nov 2015, Pourrières, France._
 
 I find myself, after all this time immersed in free culture, amazed at

@@ -8,19 +8,6 @@ up: <a href="../">Cost of Freedom</a>
 next: <a href="collective-memory">Collective Memory</a>
 ---
 
-[CoF][c0] | [Collective Memory][c1] | [OPENING: FREEDOM][c2] | [ARCHITECTONICS OF POWER][c3] | [AFFORDANCES][c4] | [Epilogue][c5]
-
-[c0]: /book "Cost of Freedom"
-[c1]: /book/collective-memory
-[c2]: /book/opening:freedom
-[c3]: /book/architectonics-of-power
-[c4]: /book/affordances
-[c5]: /book/epilogue
-
-**Prologue**
-
-# {{ page.title }}
-
 Freedom comes with many costs, not least responsibility. Social,
 psychological, financial, bodily, emotional: known and unknown costs,
 often to bystanders, turn any strategy to gain and protect freedom
