@@ -71,8 +71,4 @@ knowledge movement than I used to be. It means that at least I'm no
 longer paying the cost within the movement, and I’m reserving all the
 resources for the costs outside the movement.
 
-Love,
-
-JTW
-
 <p class="author bio">John Wilbanks is the Chief Commons Officer at Sage Bionetworks and a Senior Fellow at the Ewing Marion Kauffman Foundation and at FasterCures. He ran the Science Commons project at Creative Commons.</p>

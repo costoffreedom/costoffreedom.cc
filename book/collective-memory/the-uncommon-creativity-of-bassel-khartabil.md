@@ -173,8 +173,6 @@ for which he has paid so dearly.
 
 I hope, my friend, to see you soon.
 
-Barry Threw, November 5th, 2015
-
 <p class="author bio">Designer, technologist, and apparently author, <a href="http://www.barrythrew.com/">Barry Threw</a> (<a href="https://twitter.com/barrythrew">@barrythrew</a>) is the Director of Software at <a href="http://www.obscuradigital.com/">Obscura Digital</a>, curator with <a href="http://www.grayarea.org/">Gray Area</a> Foundation for the Arts, and the Interim Director of the <a href="">#NEWPALMYRA</a> project. He lives in San Francisco, CA.</p>
 
 
