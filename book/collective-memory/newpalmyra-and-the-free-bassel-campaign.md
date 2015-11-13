@@ -1,5 +1,5 @@
 ---
-title: #NEWPALMYRA and the Free Bassel Campaign
+title: "#NEWPALMYRA and the Free Bassel Campaign"
 author: Jon Phillips
 section: Collective Memory
 layout: book
