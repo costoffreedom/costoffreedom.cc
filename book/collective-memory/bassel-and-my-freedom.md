@@ -54,4 +54,4 @@ trance... I laugh and I cry...
 Bassel made me Free, while he is absent. He is in the regime's jail,
 and I am in the jail of waiting for him.
 
-<span class="author bio">Noura Ghazi Safadi is a Syrian writer. She's married to Bassel.</span>
+<p class="author bio">Noura Ghazi Safadi is a Syrian writer. She's married to Bassel.</p>
