@@ -24,7 +24,7 @@ infringe copyright. This was often misunderstood to be a statement in
 support of stronger copyright, taking Metallica's side against
 Napster.
 
-qMy intention was different.
+My intention was different.
 
 ---
 
