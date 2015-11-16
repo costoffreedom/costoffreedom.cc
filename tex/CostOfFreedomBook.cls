@@ -5,10 +5,9 @@
 %encoding
 
 \RequirePackage[utf8]{inputenc}
-\RequirePackage[english,arabic]{babel}
+\RequirePackage[english]{babel}
 \RequirePackage[T1]{fontenc}
 \RequirePackage{lmodern}
-\RequirePackage[T1]{fontenc}
 \RequirePackage{textcomp}
 \RequirePackage{subscript}
 
@@ -248,15 +247,6 @@
   { \par\normalfont\hfill--\ \chapquote@author\hspace*{\@tempdima}\par\bigskip}
 
 
-% the acknowledgments page
-\newcommand{\acknowledgments}{
-  \chapter*{Remerciements}
-  \noindent
-  \input{pages/thanks}
-  \vspace*{\fill}
-  \newpage
-  \setcounter{page}{1}
-  \pagenumbering{arabic}}
 
 % An environment for paragraph-style section
 \providecommand\newthought[1]{%

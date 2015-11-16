@@ -24,7 +24,9 @@ for chapters in $(find $BOOK_DIR -maxdepth 1 -type d ! -name $IGNORED_REPS ); do
     tex_filepath=$tex_chapter/$tex_filename
     printf \\t$text\\n 
     printf \\t$tex_filepath\\n
-    kramdown $text --no-auto-ids --output latex > $tex_filepath
+    
+    # clean markdown and pipe into pandoc conversion
+    python ${BOOK_HOME_DIR}/bin/clean_markdown.py $text | pandoc --from=markdown --output=$tex_filepath 
     done;
 done;
 
