@@ -1,25 +1,22 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title> Cost of Freedom | {{ page.section }} | {{ page.title }} </title>
-    <link rel="stylesheet" href="/css/normalize.css">
-    <link rel="stylesheet" href="/css/skeleton.css">
-    <link rel="stylesheet" href="/css/style.css">
-    <meta name="description" content="{{ page.description }}">
-    <meta name="author" content="{{ page.author }}">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href="/images/favicon.png">
-    <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
-  </head>
-  <body class="book">
-    {% include header.html %}
-    {% include menu.html %}
+  {% include header.html %}
     <main class="container">
+
+        {% if  page.author | slugify:default | replace:'é','e'  != "" %}
+          {% capture author %}
+            {% include authors/{{ page.author | downcase | slugify:default | replace:'é','e' | replace:'ë','e' }}.md %}
+          {% endcapture %}
+
+          {{ author  | escape  | markdownify }}
+          {{ author  }}
+
+      {% endif %}
+
       <article class="twelve columns">
         <h2 class="center">{{ page.title }}</h2>
         {{ content }}
       </article>
+
+
     </main>
     <footer class="container">
       <nav class="row next-prev">
@@ -31,5 +28,4 @@
       </nav>
     </footer>
     {% include footer.html %}
-  </body>
-</html>
+

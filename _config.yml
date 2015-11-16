@@ -1,2 +1,17 @@
+collections:
+    book:
+        output: true
+    authors:
+        output: true
+        values : 
+            layout: author
+
+exclude:
+    - bin
+    - build
+    - pdf
+    - tex
+    - contribs
+
 gems:
   - jekyll-redirect-from

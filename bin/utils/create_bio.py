@@ -27,19 +27,18 @@ def create_bio(text_path):
 
         # parse metadata
         html = markdown2.markdown(raw, extras=["metadata"])
-        # print html.metadata
 
         author_slug = slugify(html.metadata["author"])
         outfile = "%s.md"%author_slug
 
-        # check if already exists
+        # get bio // TODO : get bio from authors folder
+        bio = raw.decode("utf-8").split('<p class="author bio">')[1].replace('{{ page.author }}', html.metadata["author"])
+
+        # convert to markdown
+        bio_md = html2text.html2text(bio)
+
+        # if not already exists then create bio file
         if outfile not in available_authors:
-
-            # get bio // TODO : get bio from authors folder
-            bio = raw.decode("utf-8").split('<p class="author bio">')[1].replace('{{ page.author }}', html.metadata["author"])
-
-            # convert to markdown
-            bio_md = html2text.html2text(bio)
 
             # get text URL
             relative_url = text_path.split("/")[-2:]
@@ -63,8 +62,7 @@ link: %s
             print "%s : already exists"%outfile
 
 
-
-def main():
+def create_bios():
     for chapter in chapters:
         chapter_path= os.path.join(BOOK_DIR,chapter)
         for text in  os.listdir(chapter_path):
@@ -73,7 +71,5 @@ def main():
                 text_path = os.path.join(chapter_path,text)
                 create_bio(text_path)
 
-
-
 if __name__ == '__main__':
-    main()
+    create_bios()
