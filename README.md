@@ -2,6 +2,13 @@
 
 Cost of Freedom Book [website](http://costoffreedom.cc).
 
-# License
+## Build the book
+
+    gem install kramdown
+    ./bin/convert_to_tex.sh
+    cd build
+    latexmk
+
+### License
 
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
