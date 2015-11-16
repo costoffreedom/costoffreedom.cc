@@ -2,22 +2,15 @@
 title: Clément Renaud
 author: hellekin
 section: authors
-layout: book
-previous: 
-up: <a href="/book/authors">Authors</a>
-next: 
+layout: author
 ---
-
-[CoF](/book) > [Authors](/book/authors/)
-
-# {{ page.title }}
 
 Clément Renaud is 32 years old. He is a researcher, developer,
 creative coder, and journalist, based in Lyon.
 
 ## Author
 
-- Preface: [Voices of Free Culture](/book/prologue-voices-of-free-culture)
+- Preface: [Voices of Free Culture](/book/)
 - [Love Letter to Computers](/book/epilogue/love-letter-to-computers)
 
 ## Editor

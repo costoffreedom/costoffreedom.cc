@@ -19,6 +19,8 @@ def create_bio(text_path):
 
     available_authors = [author for author in os.listdir(AUTHORS_DIR)]
 
+    print "...  %s "%text_path
+
     #load metata
     with open(text_path, "r") as f :
         raw = f.read()
@@ -32,7 +34,6 @@ def create_bio(text_path):
 
         # check if already exists
         if outfile not in available_authors:
-            print "%s : saving"%outfile
 
             # get bio // TODO : get bio from authors folder
             bio = raw.decode("utf-8").split('<p class="author bio">')[1].replace('{{ page.author }}', html.metadata["author"])
@@ -41,7 +42,7 @@ def create_bio(text_path):
             bio_md = html2text.html2text(bio)
 
             # get text URL
-            relative_url = args.file.split("/")[-3:]
+            relative_url = text_path.split("/")[-2:]
             text_url="/".join(relative_url)[:-3]
             print text_url
 
@@ -67,7 +68,10 @@ def main():
     for chapter in chapters:
         chapter_path= os.path.join(BOOK_DIR,chapter)
         for text in  os.listdir(chapter_path):
-            print os.path.join(chapter_path,text)
+            print text
+            if text != "index.md":
+                text_path = os.path.join(chapter_path,text)
+                create_bio(text_path)
 
 
 
