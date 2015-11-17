@@ -1,0 +1,12 @@
+ <main class="container">
+    <article class="twelve columns">
+      <h2 class="center">{{ page.title }}</h2>
+      {{ content }}
+
+      {% if  page.author | slugify:default | replace:'é','e'  != "" %}
+          {% include authors/{{ page.author | downcase | slugify:default | replace:'é','e' | replace:'ë','e' }}.html %}
+      {% endif %}
+
+    </article>
+</main>
+

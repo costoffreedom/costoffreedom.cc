@@ -1,2 +1,48 @@
+collections:
+    book:
+        output: true
+    print:
+        output: true
+    authors:
+        output: true
+    bios:
+        output: true
+
+
+defaults:
+  -
+        scope:
+          path: ""
+          type: authors
+        values:
+          layout: "author"
+  -
+        scope:
+          path: ""
+          type: bios
+        values:
+          layout: "bio"
+  -
+        scope:
+          path: ""
+          type: print
+        values:
+          layout: print
+  -
+        scope:
+          path: ""
+          type: book
+        values:
+          layout: book
+
+exclude:
+    - _includes/authors
+    - _site/bios
+    - bin
+    - build
+    - pdf
+    - tex
+    - contribs
+
 gems:
   - jekyll-redirect-from

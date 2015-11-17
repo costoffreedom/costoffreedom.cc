@@ -1,3 +1,8 @@
-mail-pw
-_site!
+mail-pw!
+_site
+build
+pdf
 
+*.fdb_latexmk
+*.aux
+*.log
