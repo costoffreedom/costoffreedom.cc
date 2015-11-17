@@ -1,7 +1,7 @@
 #!/bin/bash
 
 BOOK_HOME_DIR=$(pwd)
-BOOK_DIR=${BOOK_HOME_DIR%%/}/book
+BOOK_DIR=${BOOK_HOME_DIR%%/}/_book
 BUILD_DIR=${BOOK_HOME_DIR%%/}/build
 TEX_DIR=${BOOK_HOME_DIR%%/}/tex
 
@@ -35,6 +35,7 @@ chmod -R 755 $BUILD_DIR
 # add files to build
 find $TEX_DIR -name "*.tex" -exec ln -s {} "$BUILD_DIR" \;
 find $TEX_DIR -name "*.cls" -exec ln -s {} "$BUILD_DIR" \;
+ln -s "${TEX_DIR}/includes" "${BUILD_DIR}/includes";
 
 # loop inside folders
 
