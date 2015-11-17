@@ -2,7 +2,6 @@
 title: My Friend is Not Free
 author: Tyng-Ruey Chuang
 section: Collective Memory
-layout: book
 previous: <a href="bassel-k">"Bassel K"</a>
 up: <a href="./">Collective Memory</a>
 next: <a href="liberte">Liberté</a>

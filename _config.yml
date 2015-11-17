@@ -1,6 +1,8 @@
 collections:
     book:
         output: true
+    print:
+        output: true
     authors:
         output: true
     bios:
@@ -20,6 +22,18 @@ defaults:
           type: bios
         values:
           layout: "bio"
+  -
+        scope:
+          path: ""
+          type: print
+        values:
+          layout: print
+  -
+        scope:
+          path: ""
+          type: book
+        values:
+          layout: book
 
 exclude:
     - _includes/authors

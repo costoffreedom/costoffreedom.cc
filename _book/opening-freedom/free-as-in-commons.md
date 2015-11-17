@@ -2,7 +2,6 @@
 title: Free as in Commons
 author: hellekin
 section: "OPENING: FREEDOM"
-layout: book
 previous: <a href="freedom-as-a-commodity">Freedom as a Commodity</a>
 up: '<a href="./">OPENING: FREEDOM</a>'
 next: <a href="../architectonics-of-power">ARCHITECTONICS OF POWER</a>

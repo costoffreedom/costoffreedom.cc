@@ -3,7 +3,6 @@ title: The Burden of Journalism
 author: Théophile Pillault
 author: theophile-pillault
 section: ARCHITECTONICS OF POWER
-layout: book
 previous: <a href="image-identity-attribution-authorship">Image, Identity, Attribution, Authorship</a>
 up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="architecture=power">Architecture = Power</a>

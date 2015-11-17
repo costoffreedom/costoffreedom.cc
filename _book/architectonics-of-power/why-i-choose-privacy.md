@@ -2,7 +2,6 @@
 title: Why I Choose Privacy
 author: Sabrina Banes
 section: ARCHITECTONICS OF POWER
-layout: book
 previous: <a href="the-cost-of-internet-freedom">The Cost of Internet Freedom</a>
 up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="why-i-choose-copyright">Why I choose Copyright</a>

@@ -3,7 +3,6 @@ title: Time to Wake Up
 author: Mushon Zer-Aviv
 authorslug: mushon-zer-aviv
 section: ARCHITECTONICS OF POWER
-layout: book
 previous: <a href="hacking-the-contradictions">Hacking the Contradictions</a>
 up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="the-cost-of-internet-freedom">The Cost of Internet Freedom</a>

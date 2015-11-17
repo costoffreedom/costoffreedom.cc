@@ -2,7 +2,6 @@
 title: The Shit of Freedom
 author: Giorgos Cheliotis
 section: "OPENING: FREEDOM"
-layout: book
 previous: <a href="keeping-promises">Keeping Promises</a>
 up: '<a href="./">OPENING: FREEDOM</a>'
 next: <a href="freedom-to-vs-freedom-from">"Freedom To" vs. "Freedom From"</a>

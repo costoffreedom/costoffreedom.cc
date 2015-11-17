@@ -3,7 +3,6 @@ title: About Bassel
 author: Patrick W. Deegan
 authorslug: patrick-w-deegan
 section: Collective Memory
-layout: book
 previous: <a href="bassel-and-my-freedom">Bassel, and My Freedom</a>
 up: <a href="./">Collective Memory</a>
 next: <a href="newpalmyra-and-the-free-bassel-campaign">#NEWPALMYRA and the Free Bassel Campaign</a>

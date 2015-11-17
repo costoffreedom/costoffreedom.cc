@@ -2,7 +2,6 @@
 title: Appendix
 author: collective
 section: Appendix
-layout: book
 previous: <a href="epilogue/andromeda-report-gliese-832-c-expedition">Andromeda Report</a>
 up: <a href="./">Cost of Freedom</a>
 next: <a href="http://freebassel.org/">#FREEBASSEL</a>

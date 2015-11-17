@@ -2,7 +2,6 @@
 title: Love Letter to Computers
 author: Clément Renaud
 section: Epilogue
-layout: book
 previous: <a href="internal-freedom">Internal Freedom</a>
 up: <a href="./">Epilogue</a>
 next: <a href="arabfuturisms-conversation-a">Arabfuturism(s) (Conversation A)</a>

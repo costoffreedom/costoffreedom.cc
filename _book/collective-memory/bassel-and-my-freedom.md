@@ -2,7 +2,6 @@
 title: Bassel, and My Freedom
 author: Noura Ghazi Safadi
 section: Collective Memory
-layout: book
 previous: <a href="the-uncommon-creativity-of-bassel-khartabil">The Uncommon Creativity of Bassel Khartabil</a>
 up: <a href="./">Collective Memory</a>
 next: <a href="about-bassel">About Bassel</a>

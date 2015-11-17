@@ -2,7 +2,6 @@
 title: Internal Freedom
 author: hellekin
 section: Epilogue
-layout: book
 previous: <a href="../affordances/reconciliation">Reconciliation</a>
 up: <a href="./">Epilogue</a>
 next: <a href="love-letter-to-computers">Love Letter to Computers</a>

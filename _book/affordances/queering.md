@@ -4,7 +4,6 @@ categories: book
 author: Natacha Roussel
 authorslug: natacha-roussel
 section: Affordances
-layout: book
 previous: <a href="/book/affordances">AFFORDANCES</a>
 up: <a href="/book">Cost of Freedom</a>
 next: <a href="nomadic-family">Nomadic Family</a>

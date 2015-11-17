@@ -3,7 +3,6 @@ title: Hacking the Contradictions
 author: Stéphanie Vidal
 authorslug: stephanie-vidal
 section: ARCHITECTONICS OF POWER
-layout: book
 previous: <a href="free-as-in-commons">Free as in Commons</a>
 up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="time-to-wake-up">Time to Wake Up</a>

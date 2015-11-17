@@ -3,7 +3,6 @@ title: From Outer Space
 author: Niki Korth
 author: niki-korth
 section: ARCHITECTONICS OF POWER
-layout: book
 previous: <a href="architecture=power">Architecture = Power</a>
 up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="free-software-economics">Free Software Economics</a>

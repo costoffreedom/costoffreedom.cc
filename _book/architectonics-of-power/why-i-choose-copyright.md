@@ -3,7 +3,6 @@ title: Why I Choose Copyright
 author: Lucas Gonze
 authorslug: lucas-gonze
 section: ARCHITECTONICS OF POWER
-layout: book
 previous: <a href="why-i-choose-privacy">Why I Choose Privacy</a>
 up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="why-i-refused-my-proprietary-self">Why I Refused My Proprietary Self</a>

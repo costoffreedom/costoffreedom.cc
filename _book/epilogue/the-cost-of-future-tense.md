@@ -2,7 +2,6 @@
 title: The Cost of Future Tense
 author: hellekin
 section: Epilogue
-layout: book
 previous: <a href="arabfuturisms-conversation-a">Arabfuturism(s) (Conversation A)</a>
 up: <a href="./">Epilogue</a>
 next: <a href="andromeda-report-gliese-832-c-expedition">Andromeda Report</a>

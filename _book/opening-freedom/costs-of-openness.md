@@ -2,7 +2,6 @@
 title: Costs of Openness
 author: Tim Boykett
 section: 'OPENING: FREEDOM'
-layout: book
 previous: <a href="the-open-world">The Open World</a>
 up: '<a href="./">OPENING: FREEDOM</a>'
 next: <a href="my-brain-on-freedom">My Brain on Freedom</a>

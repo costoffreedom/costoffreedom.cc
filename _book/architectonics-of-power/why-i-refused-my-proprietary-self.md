@@ -2,7 +2,6 @@
 title: Why I Refused My Proprietary Self
 author: Adam Hyde
 section: ARCHITECTONICS OF POWER
-layout: book
 previous: <a href="why-i-choose-copyright">Why I Choose Copyright</a>
 up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="image-identity-attribution-authorship">Image, Identity, Attribution, Authorship</a>

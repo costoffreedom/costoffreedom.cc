@@ -2,7 +2,6 @@
 title: Rebuild Asad Al-Lat
 author: Georges Dahdouh
 section: Collective Memory
-layout: book
 previous: <a href="palmyra-3d-premonition-vision-of-bassel">Palmyra 3D, Premonition Vision of Bassel</a>
 up: <a href="./">Collective Memory</a>
 next: <a href="supporting-bassel">Supporting Bassel</a>

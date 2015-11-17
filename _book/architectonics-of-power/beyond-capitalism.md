@@ -3,7 +3,6 @@ title: Beyond Capitalism
 author: hellekin
 authorslug: hellekin
 section: ARCHITECTONICS OF POWER
-layout: book
 previous: <a href="free-software-economics">Free Software Economics</a>
 up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="../affordances/">AFFORDANCES</a>

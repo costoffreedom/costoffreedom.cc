@@ -2,7 +2,6 @@
 title: '"Bassel K"'
 author: Mark Weidenbaum
 section: Collective Memory
-layout: book
 previous: <a href="what-does-freedom-mean-to-you-mr-government">What Does Freedom Mean to You, Mr. Government?</a>
 up: <a href="./">Collective Memory</a>
 next: <a href="my-friend-is-not-free">My Friend is Not Free</a>

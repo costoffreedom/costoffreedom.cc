@@ -3,7 +3,6 @@ title: Architecture = Power
 author: Stéphanie Vidal
 authorslug: stephanie-vidal
 section: ARCHITECTONICS OF POWER
-layout: book
 previous: <a href="the-burden-of-journalism">The Burden of Journalism</a>
 up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="from-outer-space">From Outer Space</a>

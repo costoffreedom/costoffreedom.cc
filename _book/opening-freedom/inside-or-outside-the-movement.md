@@ -2,7 +2,6 @@
 title: Inside or Outside the Movement
 author: John Wilbanks
 section: 'OPENING: FREEDOM'
-layout: book
 previous: <a href="too-poor-not-to-care">Too Poor Not to Care</a>
 up: '<a href="./">OPENING: FREEDOM</a>'
 next: <a href="freedom-as-a-commodity">Freedom as a Commodity</a>

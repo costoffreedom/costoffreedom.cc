@@ -2,7 +2,6 @@
 title: Supporting Bassel
 author: Ethan Zuckerman
 section: Collective Memory
-layout: book
 previous: <a href="rebuild-asad-al-lat">Rebuild Asas Al-Lat</a>
 up: <a href="./">Collective Memory</a>
 next: <a href="what-does-freedom-mean-to-you-mr-government">What Does Freedom Mean to You, Mr. Government?</a>

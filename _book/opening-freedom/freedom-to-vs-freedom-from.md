@@ -2,7 +2,6 @@
 title: '"Freedom To" vs. "Freedom From"'
 author: Martin Paul Eve
 section: 'OPENING: FREEDOM'
-layout: book
 previous: <a href="the-shit-of-freedom">The Shit of Freedom</a>
 up: '<a href="./">OPENING: FREEDOM</a>'
 next: <a href="free-culture-in-an-expensive-world">Free Culture in an Expensive World</a>

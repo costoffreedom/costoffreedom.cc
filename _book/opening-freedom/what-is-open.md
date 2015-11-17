@@ -2,7 +2,6 @@
 title: What is Open?
 author: Richard Goodman
 section: 'OPENING: FREEDOM'
-layout: book
 previous: <a href="free-culture-in-an-expensive-world">Free Culture in an Expensive World</a>
 up: '<a href="./">OPENING: FREEDOM</a>'
 next: <a href="the-open-world">The Open World</a>

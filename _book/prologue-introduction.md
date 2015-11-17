@@ -3,7 +3,6 @@ title: Introduction
 author: collective
 categories: book
 section: Prologue
-layout: book
 previous: <a href="prologue-voices-of-free-culture">Preface</a>
 up: <a href="../">Cost of Freedom</a>
 next: <a href="collective-memory">Collective Memory</a>

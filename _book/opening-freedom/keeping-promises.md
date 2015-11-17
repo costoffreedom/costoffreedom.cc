@@ -2,7 +2,6 @@
 title: Keeping Promises
 author: Lawrence Lessig
 section: "OPENING: FREEDOM"
-layout: book
 previous: <a href="../collective-memory/rebuild-asad-al-lat">Rebuild Asad Al-Lat</a>
 up: '<a href="./">OPENING: FREEDOM</a>'
 next: <a href="the-shit-of-freedom">The Shit of Freedom</a>

@@ -3,7 +3,6 @@ title: Reconciliation
 author: hellekin, Natacha Roussel, and Pauline Gadea
 authorslug: natacha-roussel,hellekin,pauline-gadea
 section: AFFORDANCES
-layout: book
 previous: <a href="resilient-networks">Resilient Networks</a>
 up: <a href="./">AFFORDANCES</a>
 next: <a href="../epilogue/">Epilogue</a>

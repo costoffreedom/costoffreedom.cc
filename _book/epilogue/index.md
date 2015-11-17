@@ -1,7 +1,6 @@
 ---
 title: Epilogue
 section: Epilogue
-layout: book
 previous: <a href="../affordances/reconciliation">Reconciliation</a>
 up: <a href="../">Cost of Freedom</a>
 next: <a href="internal-freedom">Internal Freedom</a>

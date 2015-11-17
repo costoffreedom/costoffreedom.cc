@@ -11,33 +11,33 @@ header, hgroup, menu, nav, section, summary, time, mark, audio, video {
   vertical-align: baseline; }
 
 @font-face {
-  font-family: "Cormorant";
-  src: url(../fonts/Cormorant-Regular.otf);
-  src: url(../fonts/Cormorant-Regular.ttf);
+  font-family: "Cormorant/Cormorant";
+  src: url(../fonts/Cormorant/Cormorant-Regular.otf);
+  src: url(../fonts/Cormorant/Cormorant-Regular.ttf);
   font-weight: normal;
   font-style: normal; }
 @font-face {
-  font-family: "Cormorant";
-  src: url(../fonts/Cormorant-Italic.otf);
-  src: url(../fonts/Cormorant-Italic.ttf);
+  font-family: "Cormorant/Cormorant";
+  src: url(../fonts/Cormorant/Cormorant-Italic.otf);
+  src: url(../fonts/Cormorant/Cormorant-Italic.ttf);
   font-weight: normal;
   font-style: italic; }
 @font-face {
-  font-family: "Cormorant";
-  src: url(../fonts/Cormorant-Bold.otf);
-  src: url(../fonts/Cormorant-Bold.ttf);
+  font-family: "Cormorant/Cormorant";
+  src: url(../fonts/Cormorant/Cormorant-Bold.otf);
+  src: url(../fonts/Cormorant/Cormorant-Bold.ttf);
   font-weight: bold;
   font-style: normal; }
 @font-face {
-  font-family: "Cormorant";
-  src: url(../fonts/Cormorant-BoldItalic.otf);
-  src: url(../fonts/Cormorant-BoldItalic.ttf);
+  font-family: "Cormorant/Cormorant";
+  src: url(../fonts/Cormorant/Cormorant-BoldItalic.otf);
+  src: url(../fonts/Cormorant/Cormorant-BoldItalic.ttf);
   font-weight: bold;
   font-style: normal; }
 @font-face {
   font-family: "League Spartan";
-  src: url(../fonts/LeagueSpartan-Bold.otf);
-  src: url(../fonts/LeagueSpartan-Bold.ttf);
+  src: url(../fonts/LeagueSpartan/leaguespartan-bold.otf);
+  src: url(../fonts/LeagueSpartan/leaguespartan-bold.ttf);
   font-weight: bold;
   font-style: normal; }
       /*!
@@ -1838,13 +1838,13 @@ header, hgroup, menu, nav, section, summary, time, mark, audio, video {
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––*/
 /* General CSS for contents */
 body {
-  font-family: "Cormorant";
+  font-family: "Cormorant/Cormorant";
   font-weight: normal;
   font-size: 10pt;
   color: black; }
 
 p {
-  font-family: "Cormorant";
+  font-family: "Cormorant/Cormorant";
   font-size: 10pt;
   line-height: 1.55;
   text-align: justify;
@@ -1869,7 +1869,7 @@ a {
   word-wrap: break-word;
   color: #FF4229;
   border-bottom: 1px dotted #FF4229;
-  font-family: "Cormorant";
+  font-family: "Cormorant/Cormorant";
   text-decoration: none; }
 
 strong em {
@@ -1936,6 +1936,7 @@ h1 {
 h2 {
   font-family: "League Spartan";
   font-size: 14pt;
+  text-transform: uppercase;
   color: #FF4229;
   margin: 30pt 0 10pt 0;
   /*padding-right: 60mm;*/ }

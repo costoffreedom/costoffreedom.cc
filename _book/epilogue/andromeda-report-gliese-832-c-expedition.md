@@ -2,7 +2,6 @@
 title: Andromeda Report -- Gliese 832 C Expedition
 author: Yu Li
 section: Epilogue
-layout: book
 previous: <a href="the-cost-of-future-tense">The Cost of Future Tense</a>
 up: <a href="./">Epilogue</a>
 next: <a href="../appendix">Appendix</a>

@@ -2,7 +2,6 @@
 title: Palmyra 3D, Premonition Vision of Bassel
 author: Faraj Rifait
 section: Collective Memory
-layout: book
 previous: <a href="newpalmyra-and-the-free-bassel-campaign">#NEWPALMYRA and the Free Bassel Campaign</a>
 up: <a href="./">Collective Memory</a>
 next: <a href="rebuild-asad-al-lat">Rebuild Asad Al Lat</a>

@@ -3,7 +3,6 @@ title: Free Software Economics
 author: hellekin
 authorslug: hellekin
 section: ARCHITECTONICS OF POWER
-layout: book
 previous: <a href="from-outer-space">From Outer Space</a>
 up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="beyond-capitalism">Beyond Capitalism</a>

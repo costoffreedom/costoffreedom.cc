@@ -2,7 +2,6 @@
 title: The Open World
 author: Lorna Campbell
 section: 'OPENING: FREEDOM'
-layout: book
 previous: <a href="what-is-open">What is Open?</a>
 up: '<a href="./">OPENING: FREEDOM</a>'
 next: <a href="costs-of-openness">Costs of Openness</a>

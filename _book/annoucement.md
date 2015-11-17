@@ -3,7 +3,6 @@ title: Announcement
 author: collective
 categories: book
 section: Prologue
-layout: book
 ---
 
 Dear reader, this book has been a huge

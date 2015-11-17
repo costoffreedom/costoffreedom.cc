@@ -2,7 +2,6 @@
 title: The Uncommon Creativity of Bassel Khartabil
 section: Collective Memory
 author: Barry Threw
-layout: book
 previous: <a href="../prologue-introduction">Introduction</a>
 up: <a href="./">Collective Memory</a>
 next: <a href="bassel-and-my-freedom">Bassel, and My Freedom</a>

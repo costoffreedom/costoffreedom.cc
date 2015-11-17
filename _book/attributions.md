@@ -1,7 +1,6 @@
 ---
 title: Attributions
 author: collective
-layout: book
 description: Who participated in this book?
 previous: <a href="/book">Cost of Freedom</a>
 up: 

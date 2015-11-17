@@ -3,7 +3,6 @@ title: Resilient Networks
 author: Jean Noël Montagné
 authorslug: jean-noel-montagne
 section: AFFORDANCES
-layout: book
 previous: <a href="transdisciplinarity">Transdisciplinarity</a>
 up: <a href="./">AFFORDANCES</a>
 next: <a href="reconciliation">Reconciliation</a>

@@ -2,7 +2,6 @@
 title: Freedom as a Commodity
 author: Pete Ippel
 section: 'OPENING: FREEDOM'
-layout: book
 previous: <a href="inside-or-outside-the-movement">Inside or Outside the Movement</a>
 up: '<a href="./">OPENING: FREEDOM</a>'
 next: <a href="free-as-in-commons">Free as in Commons</a>

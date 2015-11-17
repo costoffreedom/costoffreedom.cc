@@ -2,7 +2,6 @@
 title: ARCHITECTONICS OF POWER
 author: collective
 section: ARCHITECTONICS OF POWER
-layout: book
 previous: <a href="../opening-freedom/free-as-in-commons">Free as in Commons</a>
 up: <a href="/book">Cost of Freedom</a>
 next: <a href="hacking-the-contradictions">Hacking the Contradictions</a>

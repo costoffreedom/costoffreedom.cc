@@ -2,7 +2,6 @@
 title: Collective Memory
 author: collective
 section: Collective Memory
-layout: book
 previous: <a href="../prologue-introduction">Introduction</a>
 up: <a href="../">Cost of Freedom</a>
 next: <a href="the-uncommon-creativity-of-bassel-khartabil">The Uncommon Creativity of Bassel Khartabil</a>

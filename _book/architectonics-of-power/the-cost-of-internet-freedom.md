@@ -3,7 +3,6 @@ title: The Cost of Internet Freedom
 author: Geert Lovink
 authorslug: geert-lovink
 section: ARCHITECTONICS OF POWER
-layout: book
 previous: <a href="time-to-wake-up">Time to Wake Up</a>
 up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="why-i-choose-privacy">Why I choose Privacy</a>

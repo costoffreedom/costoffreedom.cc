@@ -3,7 +3,6 @@ title: Transdisciplinarity
 author: Mélanie Dulong de Rosnay
 authorslug: melanie-dulong-de-rosnay
 section: AFFORDANCES
-layout: book
 previous: <a href="collective-validation">Collective Validation</a>
 up: <a href="./">AFFORDANCES</a>
 next: <a href="resilient-networks">Resilient Networks</a>

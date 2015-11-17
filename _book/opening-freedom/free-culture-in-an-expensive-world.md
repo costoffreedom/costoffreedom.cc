@@ -2,7 +2,6 @@
 title: Free Culture in an Expensive World
 author: Shauna Gordon-McKeon
 section: 'OPENING: FREEDOM'
-layout: book
 previous: <a href="freedom-to-vs-freedom-from">"Freedom To" vs. "Freedom From"</a>
 up: '<a href="./">OPENING: FREEDOM</a>'
 next: <a href="what-is-open">What is Open?</a>

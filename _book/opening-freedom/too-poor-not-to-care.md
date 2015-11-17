@@ -2,7 +2,6 @@
 title: Too Poor Not to Care
 author: Ben Dablo
 section: 'OPENING: FREEDOM'
-layout: book
 previous: <a href="my-brain-on-freedom">My Brain on Freedom</a>
 up: '<a href="./">OPENING: FREEDOM</a>'
 next: <a href="inside-or-outside-the-movement">Inside or Outside the Movement</a>

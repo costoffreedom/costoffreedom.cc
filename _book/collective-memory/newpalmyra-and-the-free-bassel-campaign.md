@@ -2,7 +2,6 @@
 title: "#NEWPALMYRA and the Free Bassel Campaign"
 author: Jon Phillips
 section: Collective Memory
-layout: book
 previous: <a href="about-bassel">About Bassel</a>
 up: <a href="./">Collective Memory</a>
 next: '<a href="palmyra-3d-premonition-vision-of-bassel">Palmyra 3D: Premonition Vision of Bassel</a>'

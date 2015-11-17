@@ -3,7 +3,6 @@ title: Nomadic Family
 author: Natacha Roussel
 authorslug: natacha-roussel
 section: AFFORDANCES
-layout: book
 previous: <a href="queering">Queering</a>
 up: <a href="./">AFFORDANCES</a>
 next: <a href="self-sufficiency">Self-Sufficiency</a>

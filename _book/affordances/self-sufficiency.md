@@ -3,7 +3,6 @@ title: Self-Sufficiency
 author: Pauline Gadea
 authorslug: pauline-gadea
 section: AFFORDANCES
-layout: book
 previous: <a href="nomadic-family">Nomadic Family</a>
 up: <a href="./">AFFORDANCES</a>
 next: <a href="collective-validation">Collective Validation</a>

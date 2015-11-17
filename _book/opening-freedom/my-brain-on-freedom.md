@@ -1,55 +1,13 @@
-  <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title> Cost of Freedom | OPENING: FREEDOM | My Brain on Freedom </title>
-    <link rel="stylesheet" href="/css/normalize.css">
-    <link rel="stylesheet" href="/css/skeleton.css">
-    <link rel="stylesheet" href="/css/style.css">
-    <meta name="description" content="">
-    <meta name="author" content="Mike Linksvayer">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href="/images/favicon.png">
-    <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
-  </head>
-  <body class="book">
-    <div id="header" class="row" style="text-align:center;">
-        <div class="twelve column">
-            <h1><a href="/book">Cost of Freedom</a></h1>
-            <h4>A Collective Inquiry</h4>
-            <p class="center">
-                <a href="/book/cost-of-freedom.pdf">
-                    <button class="button-download button">Download PDF</button>
-                </a>
-                <a href="/book/cost-of-freedom.epub">
-                    <button class="button-download button">Download EPUB</button>
-                </a>
-            </p>
-        </div>
-    </div>
-    <div id="menu">
-    <div class="container">
-        <div class="row">
-            <div class="twelve columns center">
-                    <p>
-                        <a href="/book" title="Homepage Cost of Freedom">The Book</a> 
-                        : <a href="/book/collective-memory">Collective Memory</a> 
-                        | <a href="/book/opening:freedom">OPENING: FREEDOM</a> 
-                        | <a href="/book/architectonics-of-power">ARCHITECTONICS OF POWER</a> 
-                        | <a href="/book/affordances">AFFORDANCES</a> 
-                        | <a href="/book/epilogue">Epilogue</a>
-                        : <a href="/book/attributions">Credits</a>
-                    </p>
-            </div>
-        </div>
-    </div>
-</div>
+---
+title: My Brain on Freedom
+author: Mike Linksvayer
+section: 'OPENING: FREEDOM'
+previous: <a href="costs-of-openness">Costs of Openness</a>
+up: '<a href="./">OPENING: FREEDOM</a>'
+next: <a href="too-poor-not-to-care">Too Poor Not to Care</a>
+---
 
-
-    <main class="container">
-      <article class="twelve columns">
-        <h2 class="center">My Brain on Freedom</h2>
-        <p>A cost of participation in free knowledge movements is “stupidity” – an assault
+A cost of participation in free knowledge movements is “stupidity” – an assault
 on intelligence, wisdom, reason, knowledge. The net effect of free knowledge on
 intelligence is probably positive, possibly hugely positive if free knowledge
 movements succeed in thoroughly commoning the noosphere, making collaboration
@@ -57,14 +15,14 @@ and inclusion the dominant paradigm for all economically valuable knowledge
 production and distribution. But the stupidity costs of free knowledge are real
 and painful, at least to me. Fortunately the costs, if acknowledged, can be
 decreased, and doing so will increase the chances of achieving free knowledge
-world liberation.</p>
+world liberation.
 
-<p>I want to explore briefly how individuals, communities, and society are
+I want to explore briefly how individuals, communities, and society are
 affected by various kinds of costs of free knowledge. This is going to be
 cursory and incomplete. Very possibly also stupid: my mind has been infected by
-free knowledge for about 25 years.</p>
+free knowledge for about 25 years.
 
-<p>Commitment makes us morally stupid, lazy, and unconvincing. Claiming that
+Commitment makes us morally stupid, lazy, and unconvincing. Claiming that
 knowledge freedom is a moral issue is not a valid moral argument, but merely an
 unsupported claim which ought be embarrassing if not immediately followed or
 preceded by justification and more importantly, critique of said justification.
@@ -80,9 +38,9 @@ perspectives of various conceptions of freedom and other values and objectives
 such as efficiency, equality, and security. Doing so will make you morally
 smarter, more interesting, and make it more possible for people and movements
 with non-freedom top goals or different conceptions of freedom to join in the
-struggle for free knowledge.</p>
+struggle for free knowledge.
 
-<p>Opportunity cost. Participating in free knowledge movements often entails
+Opportunity cost. Participating in free knowledge movements often entails
 filling one’s brain with ridiculous trivia (e.g., about copyright), developing
 one’s skills to workaround underdeveloped systems and institutions (e.g.,
 administering one’s own server, [self-]publishing with little or no support for
@@ -94,9 +52,9 @@ admit that these are huge costs, take them on carefully, and avoid criticizing
 those who fail to fail to take them on, at least not without acknowledging that
 they are costs rather than, or at least in addition to being moral imperatives.
 Once admitted, free knowledge movement actors might prioritize reducing these
-costs.</p>
+costs.
 
-<p>Scale. Free knowledge movements are often thought of as “bottom up” – see
+Scale. Free knowledge movements are often thought of as “bottom up” – see
 phrases such as “many eyes make bugs shallow” and “democratized innovation”,
 the idealization of DIY, decentralization, and contribution by individuals and
 small non-profits; and suspicion of huge government and companies – at best
@@ -122,9 +80,9 @@ back for every one forward, with bonus for failing to realize this is what is
 happening. In this sense dwarfish free knowledge actors are stupid, and will
 remain so til they crack the logic of collective action, mostly through huge
 free knowledge institutions, though other improved coordination mechanisms may
-help as well.</p>
+help as well.
 
-<p>Diversity. Free knowledge movements aren’t very diverse, which contributes
+Diversity. Free knowledge movements aren’t very diverse, which contributes
 mightily to the costs of joining and scaling, and thus intelligence, in
 addition to missing out on intelligence benefits of diverse perspectives
 documented elsewhere. Much has been written about lack of diversity in free
@@ -138,9 +96,9 @@ scale makes free knowledge movements insular and non-diverse. Like hanging out
 with culturally similar committed free knowledge hacks? Great, you’re in the
 right social club. Want world liberation? The cost in the short term might be
 shedding some certainty, insularity, and fear, and thus feeling stupid. It’ll
-make you, me, and free knowledge movements much smarter in the longer term.</p>
+make you, me, and free knowledge movements much smarter in the longer term.
 
-<p>Toxin. One topic endemic to most free knowledge movements is worth calling out
+Toxin. One topic endemic to most free knowledge movements is worth calling out
 as an especially potent brain toxin: licenses. Yes they’re necessary for the
 most part given bad default knowledge governance. But they make us stupid, over
 and above knowledge of copyright, patent, and other regimes entailed.
@@ -159,9 +117,9 @@ obvious: re-conceptualize licenses away from vehicles of creator choice towards
 prototypes for commons-favoring public policy. This exercise and actualization
 will make free knowledge movement actors much smarter – we’ll have to engage
 with the non-dwarfish implications of free knowledge and actually convince
-people with other top policy concerns rather than hide from them.</p>
+people with other top policy concerns rather than hide from them.
 
-<p>One way to decrease the stupidity of free knowledge movements is more
+One way to decrease the stupidity of free knowledge movements is more
 cross-fertilization and knowledge and tool sharing across said movements.
 Stupid-making knowledge acquisition about topics such as copyright and licenses
 ought not need to be re-experienced in each free knowledge movement silo.
@@ -170,87 +128,4 @@ silos. Breaking apart the silos would also increase diversity – each has a
 different mix of participants, even if they are also almost all biased in some
 of the same ways. While good for the whole, a warning to individuals:
 attempting to learn about and cross-fertilize multiple free knowledge movements
-might come at an extra high cost to your intelligence.</p>
-
-
-        
-            <div class="author bio">
-    <strong>Mike Linksvayer</strong> <p>Mike Linksvayer speaks internationally and writes broadly. He is the first CTO
-and then Vice President of Creative Commons.</p>
-
-
-</div>
-
-      
-
-  </article>
-
-    </main>
-    <footer class="container">
-      <nav class="row next-prev">
-        <ul class="twelve columns">
-          <li class='prev'><a href="costs-of-openness">Costs of Openness</a></li>
-          <li><a href="./">OPENING: FREEDOM</a> </li>
-          <li class="next"><a href="too-poor-not-to-care">Too Poor Not to Care</a></li>
-        </ul>
-      </nav>
-    </footer>
-    <div class="row" id="footer">
-
-    <h5 class="center">For questions, please email <a href="mailto:people@costoffreedom.cc">people@costoffreedom.cc</a></h5>
-    <p>Subscribe to<a href="mailto:book-subscribe@costoffreedom.cc"> book@costoffreedom.cc</a> to share your reading and your free culture experience.</p>
-
-    <div class="container">
-        <div class="row">
-            <div class="three columns">
-                <a href="http://fabricatorz.com">
-                    <img src="/images/Fabricatorz-type.png" alt="logo fabricatorz" class="logo fabricatorz">
-                </a>
-            </div>
-            <div class="three columns">
-                <a href="http://creativecommons.org">
-                    <img src="/images/cc.logo.large.png" alt="logo cc" class="logo cc">
-                </a>
-            </div>
-            <div class="three columns">
-                <a href="http://freebassel.org">
-                    <img src="/images/freebassel.png" alt="logo freebassel" class="logo freebassel">
-                </a>
-            </div>
-            <div class="three columns">
-                <a href="http://booksprints.net">
-                    <img src="/images/booksprint.png" alt="logo booksprints" class="logo booksprints">
-                </a>
-            </div>
-        </div>
-        <div class="row" id="license">
-            <div class="twelve columns">
-                <p>
-                    <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/p/zero/1.0/80x15.png" /></a>
-                    <br>This work is released under <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">CC0</a>.</p>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Document
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<script>
-(function(i, s, o, g, r, a, m) {
-    i['GoogleAnalyticsObject'] = r;
-    i[r] = i[r] || function() {
-        (i[r].q = i[r].q || []).push(arguments)
-    }, i[r].l = 1 * new Date();
-    a = s.createElement(o),
-        m = s.getElementsByTagName(o)[0];
-    a.async = 1;
-    a.src = g;
-    m.parentNode.insertBefore(a, m)
-})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
-ga('create', 'UA-69874023-1', 'auto');
-ga('send', 'pageview');
-</script>
-  </body>
-</html>
-
-
+might come at an extra high cost to your intelligence.

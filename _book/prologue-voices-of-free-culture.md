@@ -3,7 +3,6 @@ title: 'Voices of Free Culture'
 author: Clément Renaud
 section: Prologue
 description: How did this book sprint happen?
-layout: book
 previous: <a href="/book/attributions">Attributions</a>
 up: <a href="/book">Cost of Freedom</a>
 next: <a href="/book/prologue-introduction">Introduction</a>

@@ -2,7 +2,6 @@
 title: "OPENING: FREEDOM"
 author: collective
 section: "OPENING: FREEDOM"
-layout: book
 previous: <a href="../collective-memory/free-bassel">Free Bassel</a>
 up: <a href="/book">Cost of Freedom</a>
 next: <a href="keeping-promises">Keeping Promises</a>

@@ -2,7 +2,6 @@
 title: Liberté
 author: Donatella Della Ratta
 section: Collective Memory
-layout: book
 previous: <a href="bassel-k">"Bassel K"</a>
 up: <a href="./">Collective Memory</a>
 next: <a href="free-bassel">Free Bassel</a>

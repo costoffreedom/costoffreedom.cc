@@ -3,7 +3,6 @@ title: Collective Validation
 author: ginger coons
 authorslug: ginger-coons
 section: AFFORDANCES
-layout: book
 previous: <a href="self-sufficiency">Self-Sufficiency</a>
 up: <a href="./">AFFORDANCES</a>
 next: <a href="transdisciplinarity">Transdisciplinarity</a>

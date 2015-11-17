@@ -1,7 +1,6 @@
 ---
 title: AFFORDANCES
 section: AFFORDANCES
-layout: book
 previous: <a href="../architectonics-of-power/beyond-capitalism">Beyond Capitalism</a>
 up: <a href="../">Cost of Freedom</a>
 next: <a href="queering">Queering</a>

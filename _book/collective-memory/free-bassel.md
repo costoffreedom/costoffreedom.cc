@@ -2,7 +2,6 @@
 title: Free Bassel
 author: Maarten Zeinstra, Muid Latif
 section: Collective Memory
-layout: book
 previous: <a href="liberte">Liberté</a>
 up: <a href="./">Collective Memory</a>
 next: '<a href="../opening:freedom/">OPENING: FREEDOM</a>'

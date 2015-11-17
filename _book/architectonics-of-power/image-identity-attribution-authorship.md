@@ -3,7 +3,6 @@ title: Image, Identity, Attribution, Authorship
 author: Christopher Adams
 authorslug: christopher-adams
 section: ARCHITECTONICS OF POWER
-layout: book
 previous: <a href="why-i-refused-my-proprietary-self">Why I Refused My Proprietary Self</a>
 up: <a href="./">ARCHITECTONICS OF POWER</a>
 next: <a href="the-burden-of-journalism">The Burden of Journalism</a>

@@ -2,7 +2,6 @@
 title: Towards a possible manifesto; proposing Arabfuturism(s) (Conversation A)
 author: Sulaiman Majali
 section: Epilogue
-layout: book
 previous: <a href="love-letter-to-computers">Love Letter to Computers</a>
 up: <a href="./">Epilogue</a>
 next: <a href="the-cost-of-future-tense">The Cost of Future Tense</a>
