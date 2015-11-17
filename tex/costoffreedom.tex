@@ -14,41 +14,38 @@
 % cover
 \includepdf[pages={1}]{includes/cost-of-freedom-cover.pdf}
 
-
 \frontmatter 
 \input{info} % some data about the work and the authors
 
+% CC-0 license
+\cclicensepage
 \blankpage
-% \ccpage
+\includepdf[pages={1}]{includes/cost-of-freedom-attributions.pdf}
+\include{_book/attributions}
 
-% \blankpage
-% \titlelight
 
-\blankpage
-
-\begin{spacing}{1}
-% \sommaire
-\end{spacing}
 \tableofcontents
 \addcontentsline{toc}{section}{Table of Content}
 
-\selectlanguage{english}
-
-\include{book/attributions}
-\includepdf[pages={1}]{includes/cost-of-freedom-prologue.pdf}
-
-\include{book/prologue-voices-of-free-culture}
-\include{book/prologue-introduction}
-\addcontentsline{toc}{chapter}{\protect\numberline{}Introduction}
+% \blankpage
+\include{_book/announcement}
 
 
 \mainmatter % the main course
+\selectlanguage{english}
 
-\chapter{Collective Memory}
+\includepdf[pages={1}]{includes/cost-of-freedom-prologue.pdf}
+\addcontentsline{toc}{chapter}{\protect\numberline{}Prologue}
+
+\blankpage
+\include{_book/prologue-voices-of-free-culture}
+\include{_book/prologue-introduction}
+
+
 \includepdf[pages={1}]{includes/cost-of-freedom-collective-memory.pdf}
+\chapter{Collective Memory}
 
 % \include{collective-memory/about-bassel} % requires arabtex
-
 \include{collective-memory/bassel-and-my-freedom}
 \include{collective-memory/bassel-k}
 % \include{collective-memory/free-bassel}
@@ -62,8 +59,8 @@
 \include{collective-memory/the-uncommon-creativity-of-bassel-khartabil}
 \include{collective-memory/what-does-freedom-mean-to-you-mr-government}
 
-\chapter{Opening:Freedom}
 \includepdf[pages={1}]{includes/cost-of-freedom-opening:freedom.pdf}
+\chapter{Opening:Freedom}
 \include{opening:freedom/costs-of-openness}
 \include{opening:freedom/free-as-in-commons}
 \include{opening:freedom/free-culture-in-an-expensive-world}
@@ -78,8 +75,8 @@
 \include{opening:freedom/too-poor-not-to-care}
 \include{opening:freedom/what-is-open}
 
-\chapter{Affordances}
 \includepdf[pages={1}]{includes/cost-of-freedom-affordances.pdf}
+\chapter{Affordances}
 \include{affordances/collective-validation}
 \include{affordances/index}
 \include{affordances/nomadic-family}
@@ -89,8 +86,8 @@
 \include{affordances/self-sufficiency}
 \include{affordances/transdisciplinarity}
 
-\chapter{Architectonics Of Power}
 \includepdf[pages={1}]{includes/cost-of-freedom-architectonics-of-power.pdf}
+\chapter{Architectonics Of Power}
 \include{architectonics-of-power/architecture=power}
 \include{architectonics-of-power/beyond-capitalism}
 \include{architectonics-of-power/free-software-economics}
@@ -105,21 +102,19 @@
 \include{architectonics-of-power/why-i-choose-privacy}
 \include{architectonics-of-power/why-i-refused-my-proprietary-self}
 
-\chapter{Epilogue}
 \includepdf[pages={1}]{includes/cost-of-freedom-epilogue.pdf}
-\include{book/epilogue/andromeda-report-gliese-832-c-expedition}
-\include{book/epilogue/arabfuturisms-conversation-a}
-\include{book/epilogue/index}
-\include{book/epilogue/internal-freedom}
-\include{book/epilogue/love-letter-to-computers}
-\include{book/epilogue/the-cost-of-future-tense}
+\chapter{Epilogue}
+\include{epilogue/andromeda-report-gliese-832-c-expedition}
+\include{epilogue/arabfuturisms-conversation-a}
+\include{epilogue/index}
+\include{epilogue/internal-freedom}
+\include{epilogue/love-letter-to-computers}
+\include{epilogue/the-cost-of-future-tense}
 
 
 \backmatter  % additional stuff
-\includepdf[pages={1}]{includes/cost-of-freedom-attributions.pdf}
-\include{book/attributions}
 
 \includepdf[pages={1}]{includes/cost-of-freedom-appendix.pdf}
-\include{book/appendix}
+\include{_book/appendix}
 
 \end{document}

@@ -1,5 +1,5 @@
 ---
-title: Voices of Free Culture
+title: 'Voices of Free Culture'
 author: Clément Renaud
 section: Prologue
 description: How did this book sprint happen?
@@ -49,5 +49,3 @@ of free culture: us.
 
 This book is dedicated to Bassel Khartabil Sadafi and to all those
 that will recognize themselves in the stories told in these pages.
-
-<p class="author bio">{{ page.author }} is 32 years old. He is a researcher, developer, creative coder, and journalist, based in Lyon.</p>

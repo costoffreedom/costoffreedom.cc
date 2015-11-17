@@ -4,6 +4,7 @@ import os
 import argparse
 import markdown2
 import sys
+from slugify import slugify
 
 # mysterious bug from stack overflow http://newbebweb.blogspot.fr/2012/02/python-head-ioerror-errno-32-broken.html
 from signal import signal, SIGPIPE, SIG_DFL
@@ -27,13 +28,21 @@ def main():
         # strip meta data
         text = raw.split( '---' )[2].split('<p class="author bio">')[0].decode("utf-8")
 
-        # get bio // TODO : get bio from authors folder
-        bio = raw.split('<p class="author bio">')[1].replace('{{ page.author }}', html.metadata["author"])
+        # get bio
+        bio_filename = "%s.md"%slugify(html.metadata["author"])
+        bio_filepath = os.path.join(os.getcwd(), os.path.join("_authors",bio_filename))
+
+        if (os.path.isfile(bio_filepath)):
+            with open(bio_filepath, "r") as f:
+                bio_raw = f.read().rstrip()
+                bio = bio_raw.split("---")[2]
+        else : # get from text / TODO : improve that
+            bio = raw.split('<p class="author bio">')[1].replace('{{ page.author }}', html.metadata["author"])
 
         # add h1 title
         final = """# %s
         %s
-        > %s
+        %s
         """%(html.metadata["title"].decode("utf-8"), text, bio)
 
         if args.outfile is sys.stdout : 

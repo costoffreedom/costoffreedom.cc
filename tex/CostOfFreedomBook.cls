@@ -60,10 +60,15 @@
 \definecolor{Crimson}{rgb}{0.6471, 0.1098, 0.1882}
 \definecolor{chaptergrey}{gray}{0.3}
 \definecolor{linkgrey}{gray}{0.5}
+\definecolor{cofred}{RGB}{241,86,64}
+
+% heading
+\RequirePackage{sectsty}
+\RequirePackage{titlecaps}
+\renewcommand\thesection{} % remove section number
+\sectionfont{ \usefont{T1}{qhv}{b}{n}\selectfont \huge \color{cofred} \MakeUppercase} %font, color, layout
 
 % page layout
-
-
 \RequirePackage[paperwidth=6.68in, paperheight=9.06in, margin=1in]{geometry} % cus­tomize page lay­out
 \RequirePackage{fancyhdr}  % header and footer
 \RequirePackage{booktabs} % for much better looking tables
@@ -75,21 +80,19 @@
 \RequirePackage{lipsum} % Lorem ipsum
 \RequirePackage{lettrine} % big letter at start of chapter
 \RequirePackage{setspace} %spacing between lines
-
 \setlength{\parskip}{.6em} %paragraph spacing
+\RequirePackage[normalem]{ulem} %strikethrough
 
+%bio
+\renewcommand\verbatim@font{\usefont{T1}{qhv}{b}{n}\selectfont}
 
 % footnote
 \addtolength{\footnotesep}{\footnotesep}
 \setlength{\skip\footins}{0.0469in}
 \renewcommand\footnoterule{\vspace*{-0.0071in}\setlength\leftskip{0pt}\setlength\rightskip{0pt plus 1fil}\noindent\textcolor{black}{\rule{0.25\columnwidth}{0.0071in}}\vspace*{0.0398in}}
 
-
 % info & data
 \RequirePackage{titling} %  \ti­tle, \au­thor avail­able per­ma­nently 
-
-% licensing
-\RequirePackage{cclicenses}
 
 % biblio
 \RequirePackage[authoryear]{natbib}
@@ -104,12 +107,14 @@
 % add a blank page
 \newcommand*\blankpage{\newpage\null\thispagestyle{empty}\newpage}
 
-% Licensing CC
-\newcommand{\ccpage}{
+% CC licensing
+\RequirePackage{cclicenses}
+
+\newcommand{\cclicensepage}{
     \newpage \thispagestyle{empty} \vspace*{\fill}
     
     \begin{flushright}
-    \sc \noindent \cc~\textit{\@degreeyear \hspace{3pt}~- \theauthor} \\
+    \sc \noindent \cc~\textit{2015 \hspace{3pt}~- Cost of Freedom} \\
     \noindent under Creative Commons.
     \end{flushright}
     
@@ -119,9 +124,6 @@
 
 % some definitions
 \def\subtitle#1{\gdef\@subtitle{#1}}
-
-
-
 
 % title page
 \renewcommand{\maketitle}{
