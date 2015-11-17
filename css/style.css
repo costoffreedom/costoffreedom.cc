@@ -380,11 +380,12 @@ body.book > header nav ul li {
     padding: 0.25em 0 1em;
 }
 
-p.author.bio {
+.author.bio {
 
     background-color: rgba(240,240,240,1);
     font-style: normal;
     font-size: smaller;
     margin-left: -1em;
-    padding: 2em;
+    padding: 2em 2em 1em 2em;
+    margin-bottom: 1em;
 }
