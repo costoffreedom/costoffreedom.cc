@@ -4,7 +4,7 @@ author: Maarten Zeinstra, Muid Latif
 section: Collective Memory
 previous: <a href="liberte">Liberté</a>
 up: <a href="./">Collective Memory</a>
-next: '<a href="../opening:freedom/">OPENING: FREEDOM</a>'
+next: '<a href="../opening-freedom/">OPENING: FREEDOM</a>'
 ---
 
 ![Free Bassel](../../images/mz-free-bassel-900.jpg)

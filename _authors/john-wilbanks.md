@@ -1,7 +1,7 @@
 ---
 title: John Wilbanks
 section: Authors
-link: opening:freedom/inside-or-outside-the-movement
+link:  opening-freedom/inside-or-outside-the-movement
 ---
 
 John Wilbanks is the Chief Commons Officer at Sage Bionetworks and a Senior

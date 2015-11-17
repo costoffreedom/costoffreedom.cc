@@ -1,7 +1,7 @@
 ---
 title: Lorna Campbell
 section: Authors
-link: opening:freedom/the-open-world
+link:  opening-freedom/the-open-world
 ---
 
 Lorna Campbell work for the University of Edinburgh. She is specialized in

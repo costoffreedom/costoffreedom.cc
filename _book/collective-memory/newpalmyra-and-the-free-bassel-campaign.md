@@ -106,4 +106,4 @@ the buildings like bar graphs to the sky, then things can happen.
 [1]: http://newpalmyra.org/
 
 [2]: https://fabricatorz.com/
-[3]: ../authors/patrick-w-deegan
+[3]: /authors/patrick-w-deegan

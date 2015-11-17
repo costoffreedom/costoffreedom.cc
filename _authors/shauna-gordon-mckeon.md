@@ -1,7 +1,7 @@
 ---
 title: Shauna Gordon-McKeon
 section: Authors
-link: opening:freedom/free-culture-in-an-expensive-world
+link:  opening-freedom/free-culture-in-an-expensive-world
 ---
 
 Shauna Gordon-McKeon is a U.S. writer, independent researcher and developer.

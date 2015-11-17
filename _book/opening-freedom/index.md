@@ -24,40 +24,40 @@ __Personal, sometimes contradictory reflections and views about the experience o
 
 
 [0]: keeping-promises
-[1]: ../authors/lawrence-lessig
+[1]: /authors/lawrence-lessig
 
 [2]: the-shit-of-freedom
-[3]: ../authors/giorgos-cheliotis
+[3]: /authors/giorgos-cheliotis
 
 [4]: freedom-to-vs-freedom-from
-[5]: ../authors/martin-paul-eve
+[5]: /authors/martin-paul-eve
 
 [6]: free-culture-in-an-expensive-world
-[7]: ../authors/shauna-gordon-mckeon
+[7]: /authors/shauna-gordon-mckeon
 
 [8]: what-is-open
-[9]: ../authors/richard-goodman
+[9]: /authors/richard-goodman
 
 [10]: the-open-world
-[11]: ../authors/lorna-campbell
+[11]: /authors/lorna-campbell
 
 [12]: costs-of-openness
-[13]: ../authors/tim-boykett
+[13]: /authors/tim-boykett
 
 [14]: my-brain-on-freedom
-[15]: ../authors/mike-linksvayer
+[15]: /authors/mike-linksvayer
 
 [16]: too-poor-not-to-care
-[17]: ../authors/ben-dablo
+[17]: /authors/ben-dablo
 
 [18]: inside-or-outside-the-movement
-[19]: ../authors/john-wilbanks
+[19]: /authors/john-wilbanks
 
 [20]: freedom-as-a-commodity
-[21]: ../authors/pete-ipell
+[21]: /authors/pete-ipell
 
 [22]: free-as-in-commons
-[23]: ../authors/hellekin
+[23]: /authors/hellekin
 
 
 

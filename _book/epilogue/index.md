@@ -14,16 +14,16 @@ next: <a href="internal-freedom">Internal Freedom</a>
 
 
 [0]: internal-freedom
-[1]: ../authors/hellekin
+[1]: /authors/hellekin
 
 [2]: love-letter-to-computers
-[3]: ../authors/clement-renaud
+[3]: /authors/clement-renaud
 
 [4]: arabfuturisms-conversation-a
-[5]: ../authors/sulaiman-majali
+[5]: /authors/sulaiman-majali
 
 [6]: the-cost-of-future-tense
-[7]: ../authors/hellekin
+[7]: /authors/hellekin
 
 [8]: andromeda-report-gliese-832-c-expedition
-[9]: ../authors/yu-li
+[9]: /authors/yu-li

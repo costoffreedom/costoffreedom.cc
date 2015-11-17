@@ -23,38 +23,38 @@ __Barriers to freedom and how we as a society eventually deal with them or fail 
 - [Beyond Capitalism][22], by [hellekin][21]
 
 [0]: hacking-the-contradictions
-[1]: ../authors/stephanie-vidal
+[1]: /authors/stephanie-vidal
 
 [2]: time-to-wake-up
-[3]: ../authors/mushon-zer-aviv
+[3]: /authors/mushon-zer-aviv
 
 [4]: the-cost-of-internet-freedom
-[5]: ../authors/geert-lovink
+[5]: /authors/geert-lovink
 
 [6]: why-i-choose-privacy
-[7]: ../authors/sabrina-banes
+[7]: /authors/sabrina-banes
 
 [8]: why-i-choose-copyright
-[9]: ../authors/lucas-gonze
+[9]: /authors/lucas-gonze
 
 [10]: why-i-refused-my-proprietary-self
-[11]: ../authors/adam-hyde
+[11]: /authors/adam-hyde
 
 [12]: image-identity-attribution-authorship
-[13]: ../authors/christopher-adams
+[13]: /authors/christopher-adams
 
 [14]: the-burden-of-journalism
-[15]: ../authors/theophile-pillault
+[15]: /authors/theophile-pillault
 
 [16]: architecture=power
 
 [18]: from-outer-space
-[19]: ../authors/niki-korth
+[19]: /authors/niki-korth
 
 [20]: free-software-economics
-[21]: ../authors/hellekin
-[23]: ../authors/jaromil
-[24]: ../authors/radium
-[25]: ../authors/christian-grothoff
+[21]: /authors/hellekin
+[23]: /authors/jaromil
+[24]: /authors/radium
+[25]: /authors/christian-grothoff
 
 [22]: beyond-capitalism

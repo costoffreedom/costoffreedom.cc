@@ -1,7 +1,7 @@
 ---
 title: Pete Ippel
 section: Authors
-link: opening:freedom/freedom-as-a-commodity
+link:  opening-freedom/freedom-as-a-commodity
 ---
 
 Pete Ippel's art is conceptual in nature and spans a variety of media from the

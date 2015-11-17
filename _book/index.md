@@ -35,7 +35,7 @@ next: ""
             <dd>
                 <h6>Bassel should be free. We will not stop campaigning for him until we see him as a free global citizen once again.</h6>
             </dd>
-            <dt class="section"><a href="/book/opening:freedom/">OPENING: FREEDOM</a></dt>
+            <dt class="section"><a href="/book/opening-freedom/">OPENING: FREEDOM</a></dt>
             <dd class="collapsed">
                 <h6>Personal, sometimes contradictory reflections and views about the experience of working within free culture</h6>
             </dd>

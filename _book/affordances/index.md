@@ -18,21 +18,21 @@ __Nature, structure, motivations and limitations of some fundamental levers towa
 
 
 [0]: queering
-[1]: ../authors/natacha-roussel
+[1]: /authors/natacha-roussel
 
 [2]: nomadic-family
 
 [4]: self-sufficiency
-[5]: ../authors/pauline-gadea
+[5]: /authors/pauline-gadea
 
 [6]: collective-validation
-[7]: ../authors/ginger-coons
+[7]: /authors/ginger-coons
 
 [8]: transdisciplinarity
-[9]: ../authors/melanie-dulong-de-rosnay
+[9]: /authors/melanie-dulong-de-rosnay
 
 [10]: resilient-networks
-[11]: ../authors/jean-noel-montagne
+[11]: /authors/jean-noel-montagne
 
 [12]: reconciliation
-[13]: ../authors/hellekin
+[13]: /authors/hellekin

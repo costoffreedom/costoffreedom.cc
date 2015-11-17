@@ -10,6 +10,6 @@ Jon Phillips is the co-founder of design and technology company
 Saran.
 
 [0]: http://freebassel.org/ [1]: http://newpalmyra.org/ [2]:
-https://fabricatorz.com/ [3]: ../authors/patrick-w-deegan
+https://fabricatorz.com/ [3]: /authors/patrick-w-deegan
 
 
