@@ -19,7 +19,7 @@ for chapters in $(find $BOOK_DIR -maxdepth 1 -type d ! -name $IGNORED_REPS ); do
     printf $chapters\\n
     tex_chapter=$BUILD_DIR/$(basename $chapters)
     mkdir -p $tex_chapter # create dir 
-    for text in $(find $chapters -maxdepth 1  -name '*.md'); do
+    for text in $(find $chapters -maxdepth 1  -name '*.md' ! -name 'index.md'); do
     tex_filename=$(basename ${text%.md}.tex)
     tex_filepath=$tex_chapter/$tex_filename
     printf \\t$text\\n 
