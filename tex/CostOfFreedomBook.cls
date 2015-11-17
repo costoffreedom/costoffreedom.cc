@@ -1,6 +1,6 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{CostOfFreedomBook}[2015/11/16 v0.1 Cost of Freedom Book Class]
-\LoadClass[12pt, a4paper]{book}
+\LoadClass[12pt]{book}
 
 %encoding
 
@@ -62,7 +62,9 @@
 \definecolor{linkgrey}{gray}{0.5}
 
 % page layout
-\RequirePackage[b5paper, margin=2.5cm]{geometry} % cus­tomize page lay­out
+
+
+\RequirePackage[paperwidth=6.68in, paperheight=9.06in, margin=1in]{geometry} % cus­tomize page lay­out
 \RequirePackage{fancyhdr}  % header and footer
 \RequirePackage{booktabs} % for much better looking tables
 \RequirePackage[palatino]{quotchap} % dec­o­ra­tive chap­ter head­ings with quo­ta­tions

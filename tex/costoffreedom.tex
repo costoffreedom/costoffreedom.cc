@@ -11,6 +11,10 @@
 \pagestyle{plain}
 \arrayrulecolor{chaptergrey} % stroke color for tables 
 
+% cover
+\includepdf[pages={1}]{includes/cost-of-freedom-cover.pdf}
+
+
 \frontmatter 
 \input{info} % some data about the work and the authors
 
@@ -31,13 +35,12 @@
 \selectlanguage{english}
 
 \include{book/attributions}
+\includepdf[pages={1}]{includes/cost-of-freedom-prologue.pdf}
 
 \include{book/prologue-voices-of-free-culture}
 \include{book/prologue-introduction}
 \addcontentsline{toc}{chapter}{\protect\numberline{}Introduction}
 
-
-\includepdf[pages={1}]{includes/cost-of-freedom-prologue.pdf}
 
 \mainmatter % the main course
 
