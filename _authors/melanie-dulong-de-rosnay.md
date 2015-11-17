@@ -4,7 +4,6 @@ section: Authors
 layout: author
 link: affordances/transdisciplinarity
 ---
-Mélanie Dulong de Rosnay is a researcher at french institution CNRS. She is
-also in charge of the Pôle Gouvernance de l’information et des Communs.
+Mélanie Dulong de Rosnay is a researcher at french institution CNRS Institute for Communication Sciences where she is in charge of the Information and Commons Governance research group.
 
 
