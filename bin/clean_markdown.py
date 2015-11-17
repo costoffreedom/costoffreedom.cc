@@ -43,15 +43,13 @@ def main():
         final = """# %s
         %s
         %s
-        """%(html.metadata["title"].decode("utf-8"), text, bio)
+        """%(html.metadata["title"].decode("utf-8"), text, bio.decode("utf-8"))
 
         if args.outfile is sys.stdout : 
             sys.stdout.write( final.encode("utf-8") ) 
         else :
             with open(args.outfile, 'w') as f:
                 f.write(final )
-
-
 
 if __name__ == '__main__':
     main()
