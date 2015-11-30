@@ -57,9 +57,9 @@ bit of comfort to bring about the possibility of our survival. This
 solution, though, requires the end of growth, which fundamentally
 contradicts the extraction system that fueled the technological boom
 in the last two centuries. Given the importance, in terms of scale, of
-the problematic at hand, the possibility of a peaceful solution
-remains both remote and indispensable. Other paths can only amplify
-the crisis and lead to catastrophe.
+the problem at hand, the possibility of a peaceful solution remains
+both remote and indispensable. Other paths can only amplify the crisis
+and lead to catastrophe.
 
 Thought, here, has reached its limits: only action remains
 possible. Mindful, ethical, and compassionate action. Loving, caring,
