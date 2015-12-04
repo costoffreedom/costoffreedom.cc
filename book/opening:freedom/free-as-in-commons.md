@@ -132,10 +132,9 @@ you may "have millions of users" but you will not have advanced their
 freedom at all. On the contrary, you would have chosen popularity over
 freedom, and lost technological sovereignty in the process.
 
-Mac OS X is based on a BSD architecture. They generate gigantic
-amounts of sales and the FreeBSD hackers seldom see any of it, and
-can't use what Apple built on top of their code that would benefit all
-their users. This is in essence the difference between copyleft and
+Mac OS X is based on a BSD architecture. But FreeBSD hackers can't use
+what Apple built on top of their code that would benefit all their
+users. This is in essence the difference between copyleft and
 non-copyleft: the former insists the code remains free as it develops,
 including larger programs, while the latter encourages cannibalization
 of the source code by defectors.
