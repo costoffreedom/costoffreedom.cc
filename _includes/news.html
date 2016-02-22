@@ -1,0 +1,10 @@
+<ul>
+{% for news in site.posts %}
+    <li>
+      <p><a href="{{ news.link}}">{{ news.title }}</a></p>
+      <p>
+        {{ news.content }}
+      </p>
+    </li>
+{% endfor %}
+</ul>
