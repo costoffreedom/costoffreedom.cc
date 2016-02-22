@@ -16,7 +16,7 @@ next: ""
 <div class="row" id="presentation">
     <div class="five columns center" id="cover">
         <figure>
-            <a href="/book/cost-of-freedom.pdf"><img src="/images/cof-cover-450x600.jpg" alt="Download PDF"></a>
+            <a href="http://book.costoffreedom.cc/book/cost-of-freedom.pdf"><img src="/images/cof-cover-450x600.jpg" alt="Download PDF"></a>
             <figcaption>
                 <p>Cover based on an original painting by
                     <a href="http://blueroseman1978.tumblr.com/">Omar
@@ -28,26 +28,26 @@ next: ""
 
     <div class="seven columns">
         <dl id="toc">
-            <dt class="minor"><a href="/book/attributions">Attributions</a></dt>
-            <dt><a href="/book/prologue-voices-of-free-culture">Preface: Voices of Free Culture</a></dt>
-            <dt><a href="/book/prologue-introduction">Introduction</a></dt>
-            <dt><a href="/book/collective-memory/">Collective Memory</a></dt>
+            <!-- <dt class="minor"><a href="http://book.costoffreedom.cc/book/attributions.html">Attributions</a></dt> -->
+            <dt><a href="http://book.costoffreedom.cc/book/prologue-voices-of-free-culture.html">Preface: Voices of Free Culture</a></dt>
+            <dt><a href="http://book.costoffreedom.cc/book/prologue-introduction.html">Introduction</a></dt>
+            <dt><a href="http://book.costoffreedom.cc/book/collective-memory/">Collective Memory</a></dt>
             <dd>
                 <h6>Bassel should be free. We will not stop campaigning for him until we see him as a free global citizen once again.</h6>
             </dd>
-            <dt class="section"><a href="/book/opening:freedom/">OPENING: FREEDOM</a></dt>
+            <dt class="section"><a href="http://book.costoffreedom.cc/book/opening:freedom/">OPENING: FREEDOM</a></dt>
             <dd class="collapsed">
                 <h6>Personal, sometimes contradictory reflections and views about the experience of working within free culture</h6>
             </dd>
-            <dt class="section"><a href="/book/architectonics-of-power/">ARCHITECTONICS OF POWER</a></dt>
+            <dt class="section"><a href="http://book.costoffreedom.cc/book/architectonics-of-power/">ARCHITECTONICS OF POWER</a></dt>
             <dd class="collapsed">
                 <h6>Barriers to freedom and how we as a society eventually deal with them or fail to do so</h6>
             </dd>
-            <dt class="section"><a href="/book/affordances/">AFFORDANCES</a></dt>
+            <dt class="section"><a href="http://book.costoffreedom.cc/book/affordances/">AFFORDANCES</a></dt>
             <dd class="collapsed">
                 <h6>Nature, structure, motivations and limitations of some fundamental levers towards a successful practice of liberation.</h6>
             </dd>
-            <dt><a href="/book/epilogue/">Epilogue</a></dt>
+            <dt><a href="http://book.costoffreedom.cc/book/epilogue/">Epilogue</a></dt>
         </dl>
     </div>
 </div>
