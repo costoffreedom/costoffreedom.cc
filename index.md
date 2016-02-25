@@ -67,3 +67,12 @@ next: ""
         <p>Finally, the fourth part <strong>AFFORDANCES</strong> offers a reflection on theories and successful practices of free culture. It offers different perspectives on the nature, structure, motivations and limitations of existing levers towards liberation, not only legal and technological but also social and cultural.</p>
     </div>
 </div>
+
+
+<div class="row" id="conversation">
+    <div class="twelve column">
+
+<a class="twitter-timeline" href="https://twitter.com/hashtag/costoffreedom" data-widget-id="702756503619444736">#costoffreedom Tweets</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+</div>
