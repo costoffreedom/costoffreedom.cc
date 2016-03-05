@@ -7,9 +7,9 @@ up: ""
 next: ""
 ---
 
-{% for news in site.posts %}
-    > <a href="{{ news.link}}">{{ news.title }}</a>
-{% endfor %}
+<!-- {% for news in site.posts %}
+<a href="{{ news.link}}">{{ news.title }}</a>
+{% endfor %} -->
 
 #####  The Cost of Freedom is a book that was written in Pourrières, France from November 2nd to 6th, 2015. This book is not a statement about freedom and culture — it is a primal scream — the sum of our questions and desires. It is the raw expression of our lives. It talks about what is ultimately made through the dream of free culture: us.
 
