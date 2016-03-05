@@ -46,7 +46,6 @@ p {
 
 h2 {
   margin-top: 5%;
-  margin-bottom: 8%;
 }
 
 h3 {
@@ -362,4 +361,10 @@ body.links {
     }
   }
 
+}
+
+.page-content {
+  img {
+    max-height: 250px ;
+  }
 }
