@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_to: http://book.costoffreedom.cc/book/authors/
+redirect_to: http://book.costoffreedom.cc/book/appendix/attributions.html
 ---
