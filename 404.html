@@ -17,16 +17,21 @@ permalink: /404.html
     <script>
       var chapters = ["collective-memory", "opening:freedom", "architectonics-of-power", "affordances", "epilogue"];
 
+      if(location.pathname.split("/")[1]  == "book") {
 
-      var n=location.href.replace("http://"+location.host, "http://book.costoffreedom.cc");
+        var n=location.href.replace("http://"+location.host, "http://book.costoffreedom.cc");
 
-      // if not a chapter, add .html extension at the end of the URL
-      var endPath = location.pathname.split("/")[location.pathname.split("/").length-1]
+        // if not a chapter, add .html extension at the end of the URL
+        var endPath = location.pathname.split("/")[location.pathname.split("/").length-1]
 
-      if( endPath.split(".").pop() != "html" && chapters.indexOf(endPath) < 0 ) n+=".html"
+        if( endPath.split(".").pop() != "html" && chapters.indexOf(endPath) < 0 ) n+=".html"
 
-      // redirect
-      if (n!=location.href)location=n;
+        // redirect
+        if (n!=location.href)location=n;
+      } else {
+        location="http://"+location.host; // default redirect to home
+      }
+
     </script>
   </body>
 </html>
