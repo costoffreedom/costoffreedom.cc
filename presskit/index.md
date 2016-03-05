@@ -3,6 +3,9 @@ title: "Press Kit"
 layout: page
 ---
 
+
+<a class="button button-download no-print" href="javascript:if(window.print)window.print()">Print this page</a>
+
 ### The Cost of Freedom is a book that was written in Pourrières, France from November 2nd to 6th, 2015, as part of the #FREEBASSEL effort to free Bassel Khartabil.
 
 Freedom comes with many costs, not least responsibility. Social, psychological, financial, bodily, emotional: known and unknown costs, often to bystanders, turn any strategy to gain and protect freedom into an ambiguous quest. Considering the costs borne by millions to obtain, for example, freedom from slavery or freedom to vote, free knowledge movements seem rather safe and straightforward.
