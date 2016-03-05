@@ -19,19 +19,9 @@
     {% include header.html %}
     <main class="container">
       <article class="twelve columns">
-        <h2 class="center">{{ page.title }}</h2>
         {{ content }}
       </article>
     </main>
-    <footer class="container">
-      <nav class="row next-prev">
-        <ul class="twelve columns">
-          <li class='prev'>{{ page.previous }}</li>
-          <li>{{ page.up }} </li>
-          <li class="next">{{ page.next }}</li>
-        </ul>
-      </nav>
-    </footer>
     {% include footer.html %}
   </body>
 </html>
