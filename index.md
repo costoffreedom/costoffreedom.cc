@@ -1,6 +1,6 @@
 ---
 title: ""
-layout: book
+layout: default
 description: A Book
 previous: ""
 up: ""
