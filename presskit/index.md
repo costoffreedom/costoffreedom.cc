@@ -33,3 +33,8 @@ Download a [hi-res](covers/CostOfFreedom_Hi-RES_cover.jpg) and [low-def](covers/
 ### License
 
 All contents are available under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) License.
+
+
+### Contact
+
+For all questions and information, please write at [contact@costoffreedom.cc](contact@costoffreedom.cc).
