@@ -76,3 +76,9 @@ Finally, the fourth part **AFFORDANCES** offers a reflection on theories and suc
 <p class="center">
   This book was written in Pourrières, France from November 2nd to 6th, 2015.
 </p>
+
+##### For questions, please email [people@costoffreedom.cc](mailto:people@costoffreedom.cc)
+
+Join the process of making and improving this book at [https://github.com/costoffreedom/](https://github.com/costoffreedom/)
+
+Subscribe to [book@costoffreedom.cc](mailto:book-subscribe@costoffreedom.cc) to share your reading and your free culture experience.
