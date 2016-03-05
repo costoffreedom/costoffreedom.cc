@@ -82,6 +82,13 @@ Finally, the fourth part **AFFORDANCES** offers a reflection on theories and suc
 
 <div class="center" >
 
+  <h4>
+    about the project
+  </h4>
+  <p class="center">
+    <a class="button">Read the Press Kit</a>
+  </p>
+
   <h5>
     You can join the process of making and improving this book by reading, translating, sharing, reviewing or printing it.
   </h5>
