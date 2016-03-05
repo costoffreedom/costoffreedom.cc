@@ -2,7 +2,10 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title> Cost of Freedom | {{ page.section }} | {{ page.title }} </title>
+    <title> Cost of Freedom
+      {% if page.section %} | {{ page.section }} {% endif %}
+      {% if page.title != "" %} | {{ page.title }} {% endif %}
+    </title>
     <link rel="stylesheet" href="/css/normalize.css">
     <link rel="stylesheet" href="/css/skeleton.css">
     <link rel="stylesheet" href="/css/style.css">
