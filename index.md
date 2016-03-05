@@ -4,8 +4,6 @@ layout: default
 ---
 
 
-
-
 <div class="row" id="presentation">
     <div class="five columns center" id="cover">
         <figure>
@@ -71,14 +69,27 @@ The third part called **ARCHITECTONICS OF POWER** takes a step back to look at h
 Finally, the fourth part **AFFORDANCES** offers a reflection on theories and successful practices of free culture. It offers different perspectives on the nature, structure, motivations and limitations of existing levers towards liberation, not only legal and technological but also social and cultural.
 
 
+<small>
+*This book was written in Pourrières, France from November 2nd to 6th, 2015.*
+</small>
+
 ***
 
-<p class="center">
-  This book was written in Pourrières, France from November 2nd to 6th, 2015.
-</p>
 
-##### For questions, please email [people@costoffreedom.cc](mailto:people@costoffreedom.cc)
+<div class="center" >
 
-Join the process of making and improving this book at [https://github.com/costoffreedom/](https://github.com/costoffreedom/)
+  <h5>
+    You can join the process of making and improving this book by reading, translating, sharing, reviewing or printing it.
+  </h5>
+  <p class="center">
+    Subscribe to the mailing list at <a href="mailto:book-subscribe@costoffreedom.cc">book@costoffreedom.cc</a> or join us to on <a href="https://github.com/costoffreedom/">Github.com</a>.
+  </p>
 
-Subscribe to [book@costoffreedom.cc](mailto:book-subscribe@costoffreedom.cc) to share your reading and your free culture experience.
+
+  <h5>
+    For questions, please email
+    <a href="mailto:contact@costoffreedom.cc">contact@costoffreedom.cc</a>
+  </h5>
+
+
+</div>
