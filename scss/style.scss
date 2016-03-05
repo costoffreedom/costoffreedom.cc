@@ -165,8 +165,9 @@ h1 {
   font-size: .9em;
   padding: 5em 0 0 2%;
 
+  margin-top: 2em;
+  
   h5 {
-    padding-top: 1em;
   }
   a {
     color: white;
@@ -211,7 +212,6 @@ h1 {
   }
 
   .caption {
-    text-align: center;
     background: rgba(0, 0, 0, 0.6);
     color: white;
     position: absolute;
@@ -220,6 +220,10 @@ h1 {
     width: 100%;
     margin: auto;
     opacity: 0;
+    height: 2em;
+    p {
+      text-align: center;
+    }
   }
   &:hover .caption {
     transition: opacity .5s;
