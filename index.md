@@ -55,7 +55,7 @@ This book is born in an attempt to free Bassel Khartabil, loved and celebrated I
 
 Seeing Bassel paying a high price for his participation in free culture, many of us have started to reflect on our own fates, actions, and choices. Why are we here today? What have we chosen? What have we given up in this process of sometimes extreme belief? The second part, **OPENING: FREEDOM**, is a recollection of personal, sometimes contradictory reflections and views about the experience of working within free culture for some years. The diversity of contributions express the many directions that have been taken to act.
 
-#### [ARCHITECTONICS OF POWER](http://book.costoffreedom.cc/book/architectonics-of-power/)
+#### [ARCHITECTONICS OF POWER]( http://book.costoffreedom.cc/book/architectonics-of-power/ )
 
 ##### Barriers to freedom and how we as a society eventually deal with them or fail to do so
 
