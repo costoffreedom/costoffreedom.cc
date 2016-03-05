@@ -69,11 +69,18 @@ The third part called **ARCHITECTONICS OF POWER** takes a step back to look at h
 Finally, the fourth part **AFFORDANCES** offers a reflection on theories and successful practices of free culture. It offers different perspectives on the nature, structure, motivations and limitations of existing levers towards liberation, not only legal and technological but also social and cultural.
 
 
-<small>
-*This book was written in Pourrières, France from November 2nd to 6th, 2015.*
-</small>
+<p class="center">
+  <em>
+    This book was written in Pourrières, France from November 2nd to 6th, 2015.
+  </em>
+</p>
 
 ***
+
+{% include news.html %}
+
+***
+
 
 
 <div class="center" >

@@ -19,10 +19,11 @@ img {
 
 a {
   text-decoration: none;
-  color: #555;
-  font-weight: bold;
+  color: #F15640;
+  font-weight: normal;
   &:hover {
     color: #F15640;
+    text-decoration: underline;
   }
 }
 
@@ -56,6 +57,10 @@ h4 {
   font-size: 1.5em;
   text-align: center;
   text-transform: uppercase;
+  a {
+    color: #F15640;
+    font-weight: normal;
+  }
 }
 
 h5 {
@@ -166,7 +171,7 @@ h1 {
   padding: 5em 0 0 2%;
 
   margin-top: 2em;
-  
+
   h5 {
   }
   a {
@@ -338,4 +343,23 @@ body.links {
 #download {
   margin-top: 2em;
   color: #F15640;
+}
+
+/*
+* news
+*/
+
+#news {
+  ul {
+    list-style: none;
+  }
+
+  h5{
+    color: #F15640;
+    padding-bottom: 0;
+    a{
+      color: #F15640;
+    }
+  }
+
 }

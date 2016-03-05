@@ -1,10 +1,11 @@
-<ul>
-{% for news in site.posts %}
-    <li>
-      <p><a href="{{ news.link}}">{{ news.title }}</a></p>
-      <p>
-        {{ news.content }}
-      </p>
-    </li>
-{% endfor %}
-</ul>
+<div id="news">
+  <h3>Updates</h3>
+  <ul>
+  {% for post in site.posts %}
+      <li>
+        <h5><a href="{{ post.link}}">{{ post.title }}</a> by {{ post.author}}</h5>
+        {{ post.content }}
+      </li>
+  {% endfor %}
+  </ul>
+</div>
