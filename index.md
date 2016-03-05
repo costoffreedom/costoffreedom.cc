@@ -43,7 +43,7 @@ layout: default
 
 ##### Bassel should be free. We will not stop campaigning for him until we see him as a free global citizen once again.
 
-This book is born in an attempt to free Bassel Khartabil, loved and celebrated Internet volunteer detained in Syria since 15 March 2012\. His name has been deleted from the Adra Prison's register where he was detained, on 3 October 2015\. We have not received any information about his current status or whereabouts since. The introductory part of this book called **Collective Memory** gives voice to his friends and family that have been urging for his release and want him back in his normal life and freedom, immediately.
+This book is born in an attempt to free Bassel Khartabil, loved and celebrated Internet volunteer detained in Syria since 15 March 2012. His name has been deleted from the Adra Prison's register where he was detained, on 3 October 2015. We have not received any information about his current status or whereabouts since. The introductory part of this book called **Collective Memory** gives voice to his friends and family that have been urging for his release and want him back in his normal life and freedom, immediately.
 
 
 #### [OPENING: FREEDOM](http://book.costoffreedom.cc/book/opening:freedom/)
@@ -52,7 +52,8 @@ This book is born in an attempt to free Bassel Khartabil, loved and celebrated I
 
 Seeing Bassel paying a high price for his participation in free culture, many of us have started to reflect on our own fates, actions, and choices. Why are we here today? What have we chosen? What have we given up in this process of sometimes extreme belief? The second part, **OPENING: FREEDOM**, is a recollection of personal, sometimes contradictory reflections and views about the experience of working within free culture for some years. The diversity of contributions express the many directions that have been taken to act.
 
-#### [ARCHITECTONICS OF POWER]( http://book.costoffreedom.cc/book/architectonics-of-power/ )
+
+#### [ARCHITECTONICS OF POWER](http://book.costoffreedom.cc/book/architectonics-of-power/)
 
 ##### Barriers to freedom and how we as a society eventually deal with them or fail to do so
 
@@ -60,7 +61,7 @@ The third part called **ARCHITECTONICS OF POWER** takes a step back to look at h
 
 #### [AFFORDANCES](http://book.costoffreedom.cc/book/affordances/)
 
-##### Nature, structure, motivations and limitations of some fundamental levers towards a successful practice of liberation.
+##### Nature, structure, motivations and limitations of some fundamental levers towards a successful practice of liberation
 
 Finally, the fourth part **AFFORDANCES** offers a reflection on theories and successful practices of free culture. It offers different perspectives on the nature, structure, motivations and limitations of existing levers towards liberation, not only legal and technological but also social and cultural.
 
