@@ -1,11 +1,4 @@
 ---
-title: Adam Hyde
-section: Authors
-layout: book
+layout: redirect
+redirect_to: http://book.costoffreedom.cc/book/authors/adam-hyde.html
 ---
-
-# Adam Hyde
-
-Adam is the founder of [BookSprints](http://booksprints.net).
-
-## [Why I Refused My Proprietary Self](/architectonics-of-power/why-i-refused-my-proprietary-self)
