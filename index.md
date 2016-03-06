@@ -7,7 +7,7 @@ layout: default
 <div class="row" id="presentation">
     <div class="five columns center" id="cover">
         <figure>
-            <a href="http://book.costoffreedom.cc/book/cost-of-freedom.pdf"><img src="/images/cof-cover-450x600.jpg" alt="Download PDF"></a>
+            <a href="https://www.gitbook.com/book/costoffreedom/costoffreedom-book/details"><img src="/images/cof-cover-450x600.jpg" alt="Download PDF"></a>
             <figcaption>
                 <p>Cover based on an original painting by
                     <a href="http://blueroseman1978.tumblr.com/">Omar
