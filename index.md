@@ -86,7 +86,7 @@ Finally, the fourth part **AFFORDANCES** offers a reflection on theories and suc
     about the project
   </h4>
   <p class="center">
-    <a class="button">Read the Press Kit</a>
+    <a class="button" href="/presskit">Read the Press Kit</a>
   </p>
 
   <h5>
