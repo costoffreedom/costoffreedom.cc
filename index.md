@@ -7,7 +7,7 @@ layout: default
 <div class="row" id="presentation">
     <div class="five columns center" id="cover">
         <figure>
-            <a href="http://book.costoffreedom.cc/book/cost-of-freedom.pdf"><img src="/images/cof-cover-450x600.jpg" alt="Download PDF"></a>
+            <a href="https://www.gitbook.com/book/costoffreedom/costoffreedom-book/details"><img src="/images/cof-cover-450x600.jpg" alt="Download PDF"></a>
             <figcaption>
                 <p>Cover based on an original painting by
                     <a href="http://blueroseman1978.tumblr.com/">Omar
@@ -86,14 +86,14 @@ Finally, the fourth part **AFFORDANCES** offers a reflection on theories and suc
     about the project
   </h4>
   <p class="center">
-    <a class="button">Read the Press Kit</a>
+    <a class="button" href="/presskit">Read the Press Kit</a>
   </p>
 
   <h5>
     You can join the process of making and improving this book by reading, translating, sharing, reviewing or printing it.
   </h5>
   <p class="center">
-    Subscribe to the mailing list at <a href="mailto:book-subscribe@costoffreedom.cc">book@costoffreedom.cc</a> or join us to on <a href="https://github.com/costoffreedom/">Github.com</a>.
+    Subscribe to the mailing list at <a href="mailto:book-subscribe@costoffreedom.cc">book@costoffreedom.cc</a> <span title="or fork">or join</span> us on <a href="https://github.com/costoffreedom/">GitHub</a>.
   </p>
 
 
