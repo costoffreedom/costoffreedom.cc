@@ -268,44 +268,6 @@ ul.alpha li {
 }
 
 /**
- * Links page
- */
-
-body.links {
-  height: 100%;
-  overflow: auto;
-  #header {
-    position: fixed;
-    width: 100%;
-    padding: 0;
-    z-index: 90;
-    height: 13em;
-    height: 10m;
-    background-color: rgba(0, 0, 13, 0.95);
-    h1 {
-      font-size: 2em;
-      text-align: right;
-      padding-top: 0.5em;
-      padding-left: 1em;
-    }
-  }
-  #main {
-    top: 1em;
-  }
-  h2, h3 {
-    padding-top: 5em;
-  }
-  #intro div h4 {
-    line-height: 0.8;
-  }
-  #tweets {
-    position: absolute;
-    bottom: 10em;
-    right: 0;
-  }
-}
-
-/**
  * Book
  */
 
@@ -321,15 +283,6 @@ body.links {
   figcaption {
     font-size: x-small;
   }
-}
-
-/**
- * Tweets
- */
-
-.tweet .translation {
-  font-size: smaller;
-  font-style: italic;
 }
 
 /*
