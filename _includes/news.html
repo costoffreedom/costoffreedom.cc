@@ -3,8 +3,10 @@
   <ul>
   {% for post in site.posts %}
       <li>
-        <h5><a href="{{ post.link}}">{{ post.title }}</a> by {{ post.author}}</h5>
-        {{ post.content }}
+        <h5><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.author %} by {{ post.author }}{% endif %}</h5>
+        {% assign excerpt_length = post.excerpt | size %}
+        {% assign content_length = post.content | size %}
+        <p>{{ post.excerpt | remove:'<p>' | remove:'</p>' }}{% if content_length > excerpt_length %}<em><a href="{{ post.url }}">[Read Full Post]</a></em>{% endif %}</p>
       </li>
   {% endfor %}
   </ul>
