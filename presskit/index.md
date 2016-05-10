@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-<a class="button button-download no-print" href="javascript:if(window.print)window.print()">Print this page</a>
+<a class="button button-download no-print" href="javascript:if(window.print)window.print()">Download as PDF</a>
 
 ### The Cost of Freedom is a book that was written in Pourrières, France from November 2nd to 6th, 2015, as part of the #FREEBASSEL effort to free Bassel Khartabil.
 
