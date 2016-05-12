@@ -86,18 +86,18 @@ bold {
   background: #F15640 url("/images/cover.jpg") no-repeat 0% 40%;
   padding: 3%;
   h1 {
-    text-shadow: 3px 3px #F15640;
+    text-shadow: 3px 3px black;
   }
   a {
     color: white;
     font-weight: normal;
     &:hover {
       color: white;
-      font-weight: normal;
+      font-weight: bold;
     }
   }
   h4 {
-    text-shadow: 1px 2px #F15640;
+    text-shadow: 1px 2px black;
   }
   .container h5 {
     text-align: justify;
