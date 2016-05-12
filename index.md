@@ -90,10 +90,10 @@ Finally, the fourth part **AFFORDANCES** offers a reflection on theories and suc
   </p>
 
   <h5>
-    You can join the process of making and improving this book by reading, translating, sharing, reviewing or printing it.
+    You can join the process of improving this book by reading, translating, sharing, reviewing or printing it.
   </h5>
   <p class="center">
-    Subscribe to the mailing list at <a href="mailto:book-subscribe@costoffreedom.cc">book@costoffreedom.cc</a> <span title="or fork">or join</span> us on <a href="https://github.com/costoffreedom/">GitHub</a>.
+    Join</span> us on <a href="https://github.com/costoffreedom/">GitHub</a>.
   </p>
 
 
