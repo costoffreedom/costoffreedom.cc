@@ -1,9 +1,9 @@
 ---
-title: Cost of Freedom released in print to demand freedom for Bassel Khartabil and introspect the costs of participation in free knowledge movements
+title: (DRAFT) Cost of Freedom released in print to demand freedom for Bassel Khartabil and introspect the costs of participation in free knowledge movements
 layout: page
 ---
 
-Hong Kong — Wednesday, 22 May 2016 — *Cost of Freedom: A Collective Inquiry* is a book demanding freedom for Bassel Khartabil and introspect the costs of participation in free knowledge movements. The book was written in Pourrières, France from November 2nd to 6th, 2015, with contributions from 45 free knowledge activists around the world, including Creative Commons founder and former U.S. presidential candidate Lawrence Lessig and Khartabil's spouse, Noura Ghazi Safadi, and uncle, Faraj Rifait.
+San Francisco — Wednesday, 22 May 2016 — *Cost of Freedom: A Collective Inquiry* is a book demanding freedom for Bassel Khartabil and introspect the costs of participation in free knowledge movements. The book was written in Pourrières, France from November 2nd to 6th, 2015, with contributions from 45 free knowledge activists around the world, including Creative Commons founder and former U.S. presidential candidate Lawrence Lessig and Khartabil's spouse, Noura Ghazi Safadi, and uncle, Faraj Rifait.
 
 Today the book is available in electronic and print formats for reading, downloading, sharing, and purchase at <http://costoffreedom.cc>. The entire book is dedicated to the public domain with the "CC Zero" license (CC0-1.0).
 
@@ -13,13 +13,12 @@ Bassel Khartabil is a free knowledge and human rights activist who has been deta
 
 &#35;NEWPALMYRA director Barry Threw said, "Bassel has dedicated his life toward advancing freedom for the people of Syria and the world. This book contains vital perspectives from thought leaders and activists on the price we pay to secure freedom for all. "
 
-&#35;FREEBASSEL activist Jon Phillips said [made up quote, real TK] "Today Bassel is 35. We demand the best birthday present for him, his birthright, freedom! Read and share *Cost of Freedom*. Ask #WhereIsBassel? Demand #FREEBASSEL."
+&#35;FREEBASSEL Co-Campaign leader, Jon Phillips said "Today Bassel is 35. We demand the best birthday present for him, his birthright, freedom! Read and share *Cost of Freedom*. Ask #WhereIsBassel? Demand #FREEBASSEL."
 
 *Cost of Freedom* is one of many creative efforts inspired by Khartabil and demanding his freedom. The #FREEBASSEL movement has been covered by *The Guardian* [list of most impressive venues TK]. More information is available at <http://freebassel.org/>.
 
 #### Press Contact
 
-- Jon Phillips
 - contact@costoffreedom.cc
 
 #### Press Kit
