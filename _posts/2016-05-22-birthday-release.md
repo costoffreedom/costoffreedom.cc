@@ -11,11 +11,11 @@ Bassel Khartabil is a free knowledge and human rights activist who has been deta
 
 *Cost of Freedom* builds its case for the cost and value of free and open knowledge through essays on the pains and relevance of free culture in the real world and personal reflections on the life, contributions, and costs paid by Khartabil.
 
-&#35;NEWPALMYRA director Barry Threw said, "Bassel has dedicated his life toward advancing freedom for the people of Syria and the world. This book contains vital perspectives from thought leaders and activists on the price we pay to secure freedom for all. "
+&#35;NEWPALMYRA Director Barry Threw said, "Bassel has dedicated his life toward advancing freedom for the people of Syria and the world. This book contains vital perspectives from thought leaders and activists on the price we pay to secure freedom for all. "
 
-&#35;FREEBASSEL Co-Campaign leader, Jon Phillips said "Today Bassel is 35. We demand the best birthday present for him, his birthright, freedom! Read and share *Cost of Freedom*. Ask #WhereIsBassel? Demand #FREEBASSEL."
+&#35;FREEBASSEL Co-Campaign Lead Jon Phillips said "Today Bassel is 35. We demand the best birthday present for him, his birthright, freedom! Read and share *Cost of Freedom*. Ask #WhereIsBassel? Demand #FREEBASSEL."
 
-*Cost of Freedom* is one of many creative efforts inspired by Khartabil and demanding his freedom. The #FREEBASSEL movement has been covered by *The Guardian* [list of most impressive venues TK]. More information is available at <http://freebassel.org/>.
+*Cost of Freedom* is one of many creative efforts inspired by Khartabil and demanding his freedom. The #FREEBASSEL movement has been covered by *The Guardian*, *The Washington Post*, and *CNN*. More information is available at <http://freebassel.org/>.
 
 #### Press Contact
 
