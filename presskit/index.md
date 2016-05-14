@@ -20,7 +20,7 @@ Bassel Khartabil, a Palestinian-Syrian, 34, is a respected computer engineer spe
 
 ##### How was this book made ?
 
-In October 2015, a [message](/cfp) was published on the Internet calling for people eager to participate to a [Book Sprint](http://www.booksprints.net/) called Cost of Freedom. On November 2nd 2015, 12 people gathered in the small village of Pourrières in Southern France to write, read, organize and edit a book that should be published a few days later. Besides their own texts, contributions were sent from all over the world to compile the present book. After 5 days, the book was published online as a website, PDF and epub. See the [pictures](https://commons.wikimedia.org/wiki/Category:Cost_of_Freedom) of the book sprint.
+In October 2015, a [message](http://book.costoffreedom.cc/book/appendix/call-for-participations.html) was published on the Internet calling for people eager to participate to a [Book Sprint](http://www.booksprints.net/) called Cost of Freedom. On November 2nd 2015, 12 people gathered in the small village of Pourrières in Southern France to write, read, organize and edit a book that should be published a few days later. Besides their own texts, contributions were sent from all over the world to compile the present book. After 5 days, the book was published online as a website, PDF and epub. See the [pictures](https://commons.wikimedia.org/wiki/Category:Cost_of_Freedom) of the book sprint.
 
 ##### Contributors
 
