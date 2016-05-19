@@ -3,7 +3,7 @@ title: (DRAFT) Cost of Freedom released in print to demand freedom for Bassel Kh
 layout: page
 ---
 
-San Francisco — Friday 20 May 2016 — *Cost of Freedom: A Collective Inquiry* is a book demanding freedom for Bassel Khartabil and introspect the costs of participation in free knowledge movements. The book was written in Pourrières, France from November 2nd to 6th, 2015, with contributions from 45 free knowledge activists around the world, including Creative Commons founder and former U.S. presidential candidate Lawrence Lessig and Khartabil's spouse, Noura Ghazi Safadi, and uncle, Faraj Rifait.
+San Francisco — Sunday, 22 May 2016 — *Cost of Freedom: A Collective Inquiry* is a book demanding freedom for Bassel Khartabil and introspect the costs of participation in free knowledge movements. The book was written in Pourrières, France from November 2nd to 6th, 2015, with contributions from 45 free knowledge activists around the world, including Creative Commons founder and former U.S. presidential candidate Lawrence Lessig and Khartabil's spouse, Noura Ghazi Safadi, and uncle, Faraj Rifait.
 
 Today the book is available in electronic and print formats for reading, downloading, sharing, and purchase at <http://costoffreedom.cc>. The entire book is dedicated to the public domain with the "CC Zero" license (CC0-1.0).
 
