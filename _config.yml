@@ -3,4 +3,5 @@ gems:
 
 sass:
   sass_dir: scss
-  
+
+permalink: /:year/:month/:title/
