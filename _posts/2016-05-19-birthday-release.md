@@ -23,7 +23,7 @@ Bassel Khartabil is a free knowledge and human rights activist who has been deta
 
 #### Press Contact
 
-- contact@costoffreedom.cc
+contact@costoffreedom.cc
 
 #### Press Kit
 
