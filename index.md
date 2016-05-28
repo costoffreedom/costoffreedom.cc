@@ -1,6 +1,6 @@
 ---
-title: ""
 layout: default
+description: Cost of Freedom: A Collective Inquiry is a book demanding freedom for Bassel Khartabil and introspect the costs of participation in free knowledge movements.
 ---
 
 
@@ -22,7 +22,6 @@ layout: default
         <h3>
           The Cost of Freedom is not a statement about freedom and culture — it is a primal scream — the sum of our questions and desires. It is the raw expression of our lives.
           It talks about what is ultimately made through the dream of free culture: us.
-          <!-- Once marginal, the free culture is today on the edge of becoming the new normal while being threatened in its fundamentals by its own success. -->
         </h3>
         <p>
           The many contributions in this book offer a unique snapshot of its dreads and interrogations, and a tentative program for the reader to reflect on the future of freedom in our times.
