@@ -1,6 +1,6 @@
 ---
 layout: default
-description: Cost of Freedom: A Collective Inquiry is a book demanding freedom for Bassel Khartabil and introspect the costs of participation in free knowledge movements.
+description: "Cost of Freedom: A Collective Inquiry is a book demanding freedom for Bassel Khartabil and introspect the costs of participation in free knowledge movements."
 ---
 
 
