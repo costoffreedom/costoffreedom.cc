@@ -9,7 +9,7 @@ San Francisco — Sunday, 22 May 2016 — *Cost of Freedom: A Collective Inquiry
 
 Today the book is available in electronic and print formats for reading, downloading, sharing, and purchase at <http://costoffreedom.cc>. The entire book is dedicated to the public domain with the "CC Zero" license (CC0-1.0).
 
-Bassel Khartabil is a free knowledge and human rights activist who has been detained in Syria since 15 March 2012, and missing since 3 October 2015. A glboal #FREEBASSEL movement ranging from Amnesty International to the Wikimedia Foundation has steadfastly called for Khartabil's release.
+Bassel Khartabil is a free knowledge and human rights activist who has been detained in Syria since 15 March 2012, and missing since 3 October 2015. A global #FREEBASSEL movement ranging from Amnesty International to the Wikimedia Foundation has steadfastly called for Khartabil's release.
 
 *Cost of Freedom* builds its case for the cost and value of free and open knowledge through essays on the pains and relevance of free culture in the real world and personal reflections on the life, contributions, and costs paid by Khartabil.
 
