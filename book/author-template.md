@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_to: http://book.costoffreedom.cc/book/author-template.html
+redirect_to: https://book.costoffreedom.cc/book/author-template.html
 ---

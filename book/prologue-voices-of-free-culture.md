@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_to: http://book.costoffreedom.cc/book/prologue-voices-of-free-culture.html
+redirect_to: https://book.costoffreedom.cc/book/prologue-voices-of-free-culture.html
 ---
