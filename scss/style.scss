@@ -168,8 +168,7 @@ h1 {
   font-size: 1.3em;
   color: white;
   text-align: center;
-  background: #F15640 url("/images/cover.jpg") no-repeat 0% 40%;
-  padding: 20px 10px;
+  background: #F15640 url("/images/cover.jpg") no-repeat 0% 39%;
 
   font-size: .9em;
   padding: 5em 0 0 2%;
@@ -185,8 +184,22 @@ h1 {
     text-align: center;
   }
 
+  #logos {
+    width: 100%;
+  }
+  .cc {
+    padding-top: .7em;
+  }
   .fabricatorz {
-    padding-top: 2em;
+    padding-top: 1.6em;
+  }
+
+  .booksprints {
+    padding-top: .75em;
+  }
+
+  .newpalmyra {
+    padding-top: 1.3em;
   }
 
   #license {
