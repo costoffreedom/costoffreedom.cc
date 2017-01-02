@@ -92,7 +92,7 @@ Finally, the fourth part **AFFORDANCES** offers a reflection on theories and suc
     You can join the process of improving this book by reading, translating, sharing, reviewing or printing it.
   </h5>
   <p class="center">
-    Join</span> us on <a href="https://github.com/costoffreedom/">GitHub</a>.
+    Join us on <a href="https://github.com/costoffreedom/">GitHub</a>.
   </p>
 
 
