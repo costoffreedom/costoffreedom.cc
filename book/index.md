@@ -1,3 +1,3 @@
 ---
-redirect_to: https://book.costoffreedom.cc/book/
+redirect_to: https://book.costoffreedom.cc/
 ---
